@@ -1,0 +1,7237 @@
+{
+  "date":"2017-03-04 18:25:11+04:00",
+  "start_time":"2017-03-04 15:55:00+04:00",
+  "event_id":"107158",
+  "event_name":"2017 ITU World Triathlon Abu Dhabi",
+  "prog_id":"307158",
+  "prog_name":"Elite Men",
+  "wetsuit":"false",
+  "sandbox":"false",
+  "num_athletes":"54",
+  "status":"official",
+  "latest":{
+    "segment_id":"18",
+    "segment_name":"Finish",
+    "num_athletes":"38"
+  },
+  "conditions":{
+    "air_temp":"28.8",
+    "water_temp":"23.2"
+  },
+  "athletes":[
+    {
+      "id":"5695",
+      "start_num":"26",
+      "name":"Javier Gomez Noya",
+      "country":"ESP",
+      "segment_id":"18",
+      "time":"01:52:30.734",
+      "difference":"00:00:00.000",
+      "position":"1",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:54.799",
+          "time":"00:10:54.799",
+          "difference":"00:00:11.001",
+          "position":"10"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:37.911",
+          "time":"00:07:43.112",
+          "difference":"00:00:11.320",
+          "position":"14"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:39.338",
+          "time":"00:01:01.427",
+          "difference":"00:00:08.189",
+          "position":"8"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:38.613",
+          "time":"00:05:59.275",
+          "difference":"00:00:00.566",
+          "position":"2"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:47.003",
+          "time":"00:06:08.390",
+          "difference":"00:00:03.156",
+          "position":"4"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:50.073",
+          "time":"00:06:03.070",
+          "difference":"00:00:00.264",
+          "position":"2"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:53.850",
+          "time":"00:06:03.777",
+          "difference":"00:00:01.436",
+          "position":"5"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:03.433",
+          "time":"00:06:09.583",
+          "difference":"00:00:01.544",
+          "position":"6"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:04.426",
+          "time":"00:06:00.993",
+          "difference":"00:00:00.793",
+          "position":"3"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:09.966",
+          "time":"00:06:05.540",
+          "difference":"00:00:02.129",
+          "position":"6"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:12.127",
+          "time":"00:06:02.161",
+          "difference":"00:00:00.313",
+          "position":"2"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:22.671",
+          "time":"00:06:10.544",
+          "difference":"00:00:01.323",
+          "position":"5"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:33.247",
+          "time":"00:06:10.576",
+          "difference":"00:00:01.621",
+          "position":"6"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:08.258",
+          "time":"00:00:35.011",
+          "difference":"00:00:06.967",
+          "position":"9"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:31.901",
+          "time":"00:07:23.643",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:36:18.696",
+          "time":"00:07:46.795",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:44:12.486",
+          "time":"00:07:53.790",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:52:30.734",
+          "time":"00:08:18.248",
+          "difference":"00:00:00.000",
+          "position":"1"
+        }
+      ]
+    },
+    {
+      "id":"18719",
+      "start_num":"22",
+      "name":"Thomas Bishop",
+      "country":"GBR",
+      "segment_id":"18",
+      "time":"01:52:44.180",
+      "difference":"00:00:13.446",
+      "position":"2",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:53.996",
+          "time":"00:10:53.996",
+          "difference":"00:00:10.198",
+          "position":"9"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:35.237",
+          "time":"00:07:41.241",
+          "difference":"00:00:08.646",
+          "position":"10"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:42.621",
+          "time":"00:01:07.384",
+          "difference":"00:00:11.472",
+          "position":"14"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:45.313",
+          "time":"00:06:02.692",
+          "difference":"00:00:07.266",
+          "position":"12"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:46.726",
+          "time":"00:06:01.413",
+          "difference":"00:00:02.879",
+          "position":"3"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:49.809",
+          "time":"00:06:03.083",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:52.915",
+          "time":"00:06:03.106",
+          "difference":"00:00:00.501",
+          "position":"2"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:01.889",
+          "time":"00:06:08.974",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:06.495",
+          "time":"00:06:04.606",
+          "difference":"00:00:02.862",
+          "position":"9"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:09.302",
+          "time":"00:06:02.807",
+          "difference":"00:00:01.465",
+          "position":"4"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:13.011",
+          "time":"00:06:03.709",
+          "difference":"00:00:01.197",
+          "position":"4"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:22.041",
+          "time":"00:06:09.030",
+          "difference":"00:00:00.693",
+          "position":"3"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:33.822",
+          "time":"00:06:11.781",
+          "difference":"00:00:02.196",
+          "position":"7"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:08.920",
+          "time":"00:00:35.098",
+          "difference":"00:00:07.629",
+          "position":"10"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:32.147",
+          "time":"00:07:23.227",
+          "difference":"00:00:00.246",
+          "position":"2"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:36:18.895",
+          "time":"00:07:46.748",
+          "difference":"00:00:00.199",
+          "position":"2"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:44:18.150",
+          "time":"00:07:59.255",
+          "difference":"00:00:05.664",
+          "position":"2"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:52:44.180",
+          "time":"00:08:26.030",
+          "difference":"00:00:13.446",
+          "position":"2"
+        }
+      ]
+    },
+    {
+      "id":"11143",
+      "start_num":"49",
+      "name":"Vincent Luis",
+      "country":"FRA",
+      "segment_id":"18",
+      "time":"01:53:07.034",
+      "difference":"00:00:36.300",
+      "position":"3",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:52.914",
+          "time":"00:10:52.914",
+          "difference":"00:00:09.116",
+          "position":"8"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:34.204",
+          "time":"00:07:41.290",
+          "difference":"00:00:07.613",
+          "position":"8"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:40.059",
+          "time":"00:01:05.855",
+          "difference":"00:00:08.910",
+          "position":"10"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:39.224",
+          "time":"00:05:59.165",
+          "difference":"00:00:01.177",
+          "position":"3"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:48.221",
+          "time":"00:06:08.997",
+          "difference":"00:00:04.374",
+          "position":"8"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:50.911",
+          "time":"00:06:02.690",
+          "difference":"00:00:01.102",
+          "position":"5"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:54.263",
+          "time":"00:06:03.352",
+          "difference":"00:00:01.849",
+          "position":"7"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:02.442",
+          "time":"00:06:08.179",
+          "difference":"00:00:00.553",
+          "position":"3"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:04.102",
+          "time":"00:06:01.660",
+          "difference":"00:00:00.469",
+          "position":"2"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:10.528",
+          "time":"00:06:06.426",
+          "difference":"00:00:02.691",
+          "position":"8"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:14.002",
+          "time":"00:06:03.474",
+          "difference":"00:00:02.188",
+          "position":"7"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:23.257",
+          "time":"00:06:09.255",
+          "difference":"00:00:01.909",
+          "position":"7"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:32.925",
+          "time":"00:06:09.668",
+          "difference":"00:00:01.299",
+          "position":"4"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:02.066",
+          "time":"00:00:29.141",
+          "difference":"00:00:00.775",
+          "position":"3"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:38.394",
+          "time":"00:07:36.328",
+          "difference":"00:00:06.493",
+          "position":"4"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:36:35.338",
+          "time":"00:07:56.944",
+          "difference":"00:00:16.642",
+          "position":"3"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:44:40.980",
+          "time":"00:08:05.642",
+          "difference":"00:00:28.494",
+          "position":"3"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:53:07.034",
+          "time":"00:08:26.054",
+          "difference":"00:00:36.300",
+          "position":"3"
+        }
+      ]
+    },
+    {
+      "id":"29442",
+      "start_num":"2",
+      "name":"Fernando Alarza",
+      "country":"ESP",
+      "segment_id":"18",
+      "time":"01:53:17.982",
+      "difference":"00:00:47.248",
+      "position":"4",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:16.268",
+          "time":"00:11:16.268",
+          "difference":"00:00:32.470",
+          "position":"22"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:07.109",
+          "time":"00:07:50.841",
+          "difference":"00:00:40.518",
+          "position":"21"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:12.319",
+          "time":"00:01:05.210",
+          "difference":"00:00:41.170",
+          "position":"21"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:25.144",
+          "time":"00:06:12.825",
+          "difference":"00:00:47.097",
+          "position":"21"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:35.687",
+          "time":"00:06:10.543",
+          "difference":"00:00:51.840",
+          "position":"18"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:38.671",
+          "time":"00:06:02.984",
+          "difference":"00:00:48.862",
+          "position":"15"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:38.726",
+          "time":"00:06:00.055",
+          "difference":"00:00:46.312",
+          "position":"11"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:42.903",
+          "time":"00:06:04.177",
+          "difference":"00:00:41.014",
+          "position":"11"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:51.873",
+          "time":"00:06:08.970",
+          "difference":"00:00:48.240",
+          "position":"17"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:55.976",
+          "time":"00:06:04.103",
+          "difference":"00:00:48.139",
+          "position":"11"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:07.104",
+          "time":"00:06:11.128",
+          "difference":"00:00:55.290",
+          "position":"16"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:22.116",
+          "time":"00:06:15.012",
+          "difference":"00:01:00.768",
+          "position":"13"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:43.370",
+          "time":"00:06:21.254",
+          "difference":"00:01:11.744",
+          "position":"14"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:15.890",
+          "time":"00:00:32.520",
+          "difference":"00:01:14.599",
+          "position":"17"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:36.865",
+          "time":"00:07:20.975",
+          "difference":"00:01:04.964",
+          "position":"10"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:26.824",
+          "time":"00:07:49.959",
+          "difference":"00:01:08.128",
+          "position":"9"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:14.659",
+          "time":"00:07:47.835",
+          "difference":"00:01:02.173",
+          "position":"5"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:53:17.982",
+          "time":"00:08:03.323",
+          "difference":"00:00:47.248",
+          "position":"4"
+        }
+      ]
+    },
+    {
+      "id":"16392",
+      "start_num":"4",
+      "name":"Richard Murray",
+      "country":"RSA",
+      "segment_id":"18",
+      "time":"01:53:24.872",
+      "difference":"00:00:54.138",
+      "position":"5",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:32.195",
+          "time":"00:11:32.195",
+          "difference":"00:00:48.397",
+          "position":"32"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:31.182",
+          "time":"00:07:58.987",
+          "difference":"00:01:04.591",
+          "position":"29"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:29.580",
+          "time":"00:00:58.398",
+          "difference":"00:00:58.431",
+          "position":"29"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:32.529",
+          "time":"00:06:02.949",
+          "difference":"00:00:54.482",
+          "position":"26"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:36.633",
+          "time":"00:06:04.104",
+          "difference":"00:00:52.786",
+          "position":"20"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:39.418",
+          "time":"00:06:02.785",
+          "difference":"00:00:49.609",
+          "position":"17"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:38.995",
+          "time":"00:05:59.577",
+          "difference":"00:00:46.581",
+          "position":"12"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:44.775",
+          "time":"00:06:05.780",
+          "difference":"00:00:42.886",
+          "position":"15"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:49.079",
+          "time":"00:06:04.304",
+          "difference":"00:00:45.446",
+          "position":"11"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:57.605",
+          "time":"00:06:08.526",
+          "difference":"00:00:49.768",
+          "position":"14"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:06.717",
+          "time":"00:06:09.112",
+          "difference":"00:00:54.903",
+          "position":"15"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:21.331",
+          "time":"00:06:14.614",
+          "difference":"00:00:59.983",
+          "position":"12"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:41.825",
+          "time":"00:06:20.494",
+          "difference":"00:01:10.199",
+          "position":"11"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:11.765",
+          "time":"00:00:29.940",
+          "difference":"00:01:10.474",
+          "position":"12"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:37.069",
+          "time":"00:07:25.304",
+          "difference":"00:01:05.168",
+          "position":"11"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:27.782",
+          "time":"00:07:50.713",
+          "difference":"00:01:09.086",
+          "position":"11"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:14.892",
+          "time":"00:07:47.110",
+          "difference":"00:01:02.406",
+          "position":"6"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:53:24.872",
+          "time":"00:08:09.980",
+          "difference":"00:00:54.138",
+          "position":"5"
+        }
+      ]
+    },
+    {
+      "id":"10536",
+      "start_num":"9",
+      "name":"Joao Pereira",
+      "country":"POR",
+      "segment_id":"18",
+      "time":"01:53:37.985",
+      "difference":"00:01:07.251",
+      "position":"6",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:15.832",
+          "time":"00:11:15.832",
+          "difference":"00:00:32.034",
+          "position":"21"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:04.612",
+          "time":"00:07:48.780",
+          "difference":"00:00:38.021",
+          "position":"20"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:09.407",
+          "time":"00:01:04.795",
+          "difference":"00:00:38.258",
+          "position":"20"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:25.738",
+          "time":"00:06:16.331",
+          "difference":"00:00:47.691",
+          "position":"22"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:37.436",
+          "time":"00:06:11.698",
+          "difference":"00:00:53.589",
+          "position":"23"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:37.049",
+          "time":"00:05:59.613",
+          "difference":"00:00:47.240",
+          "position":"13"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:41.722",
+          "time":"00:06:04.673",
+          "difference":"00:00:49.308",
+          "position":"18"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:46.431",
+          "time":"00:06:04.709",
+          "difference":"00:00:44.542",
+          "position":"18"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:51.451",
+          "time":"00:06:05.020",
+          "difference":"00:00:47.818",
+          "position":"16"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:56.608",
+          "time":"00:06:05.157",
+          "difference":"00:00:48.771",
+          "position":"12"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:05.520",
+          "time":"00:06:08.912",
+          "difference":"00:00:53.706",
+          "position":"12"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:22.430",
+          "time":"00:06:16.910",
+          "difference":"00:01:01.082",
+          "position":"14"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:43.795",
+          "time":"00:06:21.365",
+          "difference":"00:01:12.169",
+          "position":"15"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:13.605",
+          "time":"00:00:29.810",
+          "difference":"00:01:12.314",
+          "position":"13"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:37.150",
+          "time":"00:07:23.545",
+          "difference":"00:01:05.249",
+          "position":"12"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:26.980",
+          "time":"00:07:49.830",
+          "difference":"00:01:08.284",
+          "position":"10"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:15.606",
+          "time":"00:07:48.626",
+          "difference":"00:01:03.120",
+          "position":"8"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:53:37.985",
+          "time":"00:08:22.379",
+          "difference":"00:01:07.251",
+          "position":"6"
+        }
+      ]
+    },
+    {
+      "id":"12721",
+      "start_num":"18",
+      "name":"Gregory Billington",
+      "country":"USA",
+      "segment_id":"18",
+      "time":"01:53:59.199",
+      "difference":"00:01:28.465",
+      "position":"7",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:59.435",
+          "time":"00:10:59.435",
+          "difference":"00:00:15.637",
+          "position":"15"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:38.484",
+          "time":"00:07:39.049",
+          "difference":"00:00:11.893",
+          "position":"15"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:42.069",
+          "time":"00:01:03.585",
+          "difference":"00:00:10.920",
+          "position":"13"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:41.471",
+          "time":"00:05:59.402",
+          "difference":"00:00:03.424",
+          "position":"8"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:47.314",
+          "time":"00:06:05.843",
+          "difference":"00:00:03.467",
+          "position":"5"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:50.326",
+          "time":"00:06:03.012",
+          "difference":"00:00:00.517",
+          "position":"3"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:53.558",
+          "time":"00:06:03.232",
+          "difference":"00:00:01.144",
+          "position":"4"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:03.732",
+          "time":"00:06:10.174",
+          "difference":"00:00:01.843",
+          "position":"7"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:05.189",
+          "time":"00:06:01.457",
+          "difference":"00:00:01.556",
+          "position":"5"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:08.846",
+          "time":"00:06:03.657",
+          "difference":"00:00:01.009",
+          "position":"3"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:11.814",
+          "time":"00:06:02.968",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:22.385",
+          "time":"00:06:10.571",
+          "difference":"00:00:01.037",
+          "position":"4"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:32.270",
+          "time":"00:06:09.885",
+          "difference":"00:00:00.644",
+          "position":"2"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:03.154",
+          "time":"00:00:30.884",
+          "difference":"00:00:01.863",
+          "position":"5"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:44.557",
+          "time":"00:07:41.403",
+          "difference":"00:00:12.656",
+          "position":"6"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:36:57.338",
+          "time":"00:08:12.781",
+          "difference":"00:00:38.642",
+          "position":"5"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:14.971",
+          "time":"00:08:17.633",
+          "difference":"00:01:02.485",
+          "position":"7"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:53:59.199",
+          "time":"00:08:44.228",
+          "difference":"00:01:28.465",
+          "position":"7"
+        }
+      ]
+    },
+    {
+      "id":"11402",
+      "start_num":"1",
+      "name":"Mario Mola",
+      "country":"ESP",
+      "segment_id":"18",
+      "time":"01:54:05.010",
+      "difference":"00:01:34.276",
+      "position":"8",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:14.948",
+          "time":"00:11:14.948",
+          "difference":"00:00:31.150",
+          "position":"20"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:11.492",
+          "time":"00:07:56.544",
+          "difference":"00:00:44.901",
+          "position":"22"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:16.862",
+          "time":"00:01:05.370",
+          "difference":"00:00:45.713",
+          "position":"22"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:24.380",
+          "time":"00:06:07.518",
+          "difference":"00:00:46.333",
+          "position":"20"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:34.852",
+          "time":"00:06:10.472",
+          "difference":"00:00:51.005",
+          "position":"16"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:37.506",
+          "time":"00:06:02.654",
+          "difference":"00:00:47.697",
+          "position":"14"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:39.401",
+          "time":"00:06:01.895",
+          "difference":"00:00:46.987",
+          "position":"13"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:43.471",
+          "time":"00:06:04.070",
+          "difference":"00:00:41.582",
+          "position":"12"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:49.632",
+          "time":"00:06:06.161",
+          "difference":"00:00:45.999",
+          "position":"12"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:57.276",
+          "time":"00:06:07.644",
+          "difference":"00:00:49.439",
+          "position":"13"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:04.996",
+          "time":"00:06:07.720",
+          "difference":"00:00:53.182",
+          "position":"11"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:20.173",
+          "time":"00:06:15.177",
+          "difference":"00:00:58.825",
+          "position":"11"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:41.958",
+          "time":"00:06:21.785",
+          "difference":"00:01:10.332",
+          "position":"12"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:10.125",
+          "time":"00:00:28.167",
+          "difference":"00:01:08.834",
+          "position":"11"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:37.480",
+          "time":"00:07:27.355",
+          "difference":"00:01:05.579",
+          "position":"13"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:28.418",
+          "time":"00:07:50.938",
+          "difference":"00:01:09.722",
+          "position":"12"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:38.750",
+          "time":"00:08:10.332",
+          "difference":"00:01:26.264",
+          "position":"12"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:54:05.010",
+          "time":"00:08:26.260",
+          "difference":"00:01:34.276",
+          "position":"8"
+        }
+      ]
+    },
+    {
+      "id":"11315",
+      "start_num":"12",
+      "name":"Andrea Salvisberg",
+      "country":"SUI",
+      "segment_id":"18",
+      "time":"01:54:19.058",
+      "difference":"00:01:48.324",
+      "position":"9",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:00.358",
+          "time":"00:11:00.358",
+          "difference":"00:00:16.560",
+          "position":"16"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:37.397",
+          "time":"00:07:37.039",
+          "difference":"00:00:10.806",
+          "position":"13"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:43.789",
+          "time":"00:01:06.392",
+          "difference":"00:00:12.640",
+          "position":"16"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:45.579",
+          "time":"00:06:01.790",
+          "difference":"00:00:07.532",
+          "position":"13"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:48.957",
+          "time":"00:06:03.378",
+          "difference":"00:00:05.110",
+          "position":"10"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:52.097",
+          "time":"00:06:03.140",
+          "difference":"00:00:02.288",
+          "position":"10"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:53.242",
+          "time":"00:06:01.145",
+          "difference":"00:00:00.828",
+          "position":"3"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:04.486",
+          "time":"00:06:11.244",
+          "difference":"00:00:02.597",
+          "position":"9"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:06.849",
+          "time":"00:06:02.363",
+          "difference":"00:00:03.216",
+          "position":"10"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:07.837",
+          "time":"00:06:00.988",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:14.360",
+          "time":"00:06:06.523",
+          "difference":"00:00:02.546",
+          "position":"8"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:24.612",
+          "time":"00:06:10.252",
+          "difference":"00:00:03.264",
+          "position":"10"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:33.196",
+          "time":"00:06:08.584",
+          "difference":"00:00:01.570",
+          "position":"5"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:03.010",
+          "time":"00:00:29.814",
+          "difference":"00:00:01.719",
+          "position":"4"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:44.950",
+          "time":"00:07:41.940",
+          "difference":"00:00:13.049",
+          "position":"8"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:01.838",
+          "time":"00:08:16.888",
+          "difference":"00:00:43.142",
+          "position":"6"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:33.126",
+          "time":"00:08:31.288",
+          "difference":"00:01:20.640",
+          "position":"9"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:54:19.058",
+          "time":"00:08:45.932",
+          "difference":"00:01:48.324",
+          "position":"9"
+        }
+      ]
+    },
+    {
+      "id":"30433",
+      "start_num":"3",
+      "name":"Henri Schoeman",
+      "country":"RSA",
+      "segment_id":"18",
+      "time":"01:54:34.744",
+      "difference":"00:02:04.010",
+      "position":"10",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:46.209",
+          "time":"00:10:46.209",
+          "difference":"00:00:02.411",
+          "position":"2"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:27.988",
+          "time":"00:07:41.779",
+          "difference":"00:00:01.397",
+          "position":"2"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:33.073",
+          "time":"00:01:05.085",
+          "difference":"00:00:01.924",
+          "position":"2"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:40.319",
+          "time":"00:06:07.246",
+          "difference":"00:00:02.272",
+          "position":"6"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:47.696",
+          "time":"00:06:07.377",
+          "difference":"00:00:03.849",
+          "position":"6"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:51.169",
+          "time":"00:06:03.473",
+          "difference":"00:00:01.360",
+          "position":"6"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:55.202",
+          "time":"00:06:04.033",
+          "difference":"00:00:02.788",
+          "position":"10"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:04.783",
+          "time":"00:06:09.581",
+          "difference":"00:00:02.894",
+          "position":"10"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:05.831",
+          "time":"00:06:01.048",
+          "difference":"00:00:02.198",
+          "position":"7"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:11.103",
+          "time":"00:06:05.272",
+          "difference":"00:00:03.266",
+          "position":"10"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:15.020",
+          "time":"00:06:03.917",
+          "difference":"00:00:03.206",
+          "position":"10"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:23.613",
+          "time":"00:06:08.593",
+          "difference":"00:00:02.265",
+          "position":"8"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:34.260",
+          "time":"00:06:10.647",
+          "difference":"00:00:02.634",
+          "position":"9"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:04.231",
+          "time":"00:00:29.971",
+          "difference":"00:00:02.940",
+          "position":"7"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:33.294",
+          "time":"00:07:29.063",
+          "difference":"00:00:01.393",
+          "position":"3"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:36:43.030",
+          "time":"00:08:09.736",
+          "difference":"00:00:24.334",
+          "position":"4"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:11.197",
+          "time":"00:08:28.167",
+          "difference":"00:00:58.711",
+          "position":"4"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:54:34.744",
+          "time":"00:09:23.547",
+          "difference":"00:02:04.010",
+          "position":"10"
+        }
+      ]
+    },
+    {
+      "id":"63162",
+      "start_num":"37",
+      "name":"Léo Bergere",
+      "country":"FRA",
+      "segment_id":"18",
+      "time":"01:54:47.674",
+      "difference":"00:02:16.940",
+      "position":"11",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:56.434",
+          "time":"00:10:56.434",
+          "difference":"00:00:12.636",
+          "position":"13"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:36.690",
+          "time":"00:07:40.256",
+          "difference":"00:00:10.099",
+          "position":"12"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:41.407",
+          "time":"00:01:04.717",
+          "difference":"00:00:10.258",
+          "position":"12"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:38.047",
+          "time":"00:05:56.640",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:43.847",
+          "time":"00:06:05.800",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:50.636",
+          "time":"00:06:06.789",
+          "difference":"00:00:00.827",
+          "position":"4"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:54.560",
+          "time":"00:06:03.924",
+          "difference":"00:00:02.146",
+          "position":"8"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:02.214",
+          "time":"00:06:07.654",
+          "difference":"00:00:00.325",
+          "position":"2"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:06.145",
+          "time":"00:06:03.931",
+          "difference":"00:00:02.512",
+          "position":"8"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:09.656",
+          "time":"00:06:03.511",
+          "difference":"00:00:01.819",
+          "position":"5"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:12.506",
+          "time":"00:06:02.850",
+          "difference":"00:00:00.692",
+          "position":"3"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:21.348",
+          "time":"00:06:08.842",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:32.386",
+          "time":"00:06:11.038",
+          "difference":"00:00:00.760",
+          "position":"3"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:01.395",
+          "time":"00:00:29.009",
+          "difference":"00:00:00.104",
+          "position":"2"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:44.428",
+          "time":"00:07:43.033",
+          "difference":"00:00:12.527",
+          "position":"5"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:04.270",
+          "time":"00:08:19.842",
+          "difference":"00:00:45.574",
+          "position":"8"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:37.037",
+          "time":"00:08:32.767",
+          "difference":"00:01:24.551",
+          "position":"10"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:54:47.674",
+          "time":"00:09:10.637",
+          "difference":"00:02:16.940",
+          "position":"11"
+        }
+      ]
+    },
+    {
+      "id":"14181",
+      "start_num":"15",
+      "name":"Igor Polyanskiy",
+      "country":"RUS",
+      "segment_id":"18",
+      "time":"01:55:04.303",
+      "difference":"00:02:33.569",
+      "position":"12",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:48.106",
+          "time":"00:10:48.106",
+          "difference":"00:00:04.308",
+          "position":"3"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:28.802",
+          "time":"00:07:40.696",
+          "difference":"00:00:02.211",
+          "position":"3"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:31.149",
+          "time":"00:01:02.347",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:40.029",
+          "time":"00:06:08.880",
+          "difference":"00:00:01.982",
+          "position":"5"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:48.577",
+          "time":"00:06:08.548",
+          "difference":"00:00:04.730",
+          "position":"9"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:51.790",
+          "time":"00:06:03.213",
+          "difference":"00:00:01.981",
+          "position":"9"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:54.864",
+          "time":"00:06:03.074",
+          "difference":"00:00:02.450",
+          "position":"9"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:04.048",
+          "time":"00:06:09.184",
+          "difference":"00:00:02.159",
+          "position":"8"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:05.538",
+          "time":"00:06:01.490",
+          "difference":"00:00:01.905",
+          "position":"6"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:08.355",
+          "time":"00:06:02.817",
+          "difference":"00:00:00.518",
+          "position":"2"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:14.727",
+          "time":"00:06:06.372",
+          "difference":"00:00:02.913",
+          "position":"9"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:23.926",
+          "time":"00:06:09.199",
+          "difference":"00:00:02.578",
+          "position":"9"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:33.852",
+          "time":"00:06:09.926",
+          "difference":"00:00:02.226",
+          "position":"8"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:03.638",
+          "time":"00:00:29.786",
+          "difference":"00:00:02.347",
+          "position":"6"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:44.737",
+          "time":"00:07:41.099",
+          "difference":"00:00:12.836",
+          "position":"7"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:03.544",
+          "time":"00:08:18.807",
+          "difference":"00:00:44.848",
+          "position":"7"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:45:37.164",
+          "time":"00:08:33.620",
+          "difference":"00:01:24.678",
+          "position":"11"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:55:04.303",
+          "time":"00:09:27.139",
+          "difference":"00:02:33.569",
+          "position":"12"
+        }
+      ]
+    },
+    {
+      "id":"45913",
+      "start_num":"43",
+      "name":"Marcel Walkington",
+      "country":"AUS",
+      "segment_id":"18",
+      "time":"01:55:14.720",
+      "difference":"00:02:43.986",
+      "position":"13",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:59.380",
+          "time":"00:10:59.380",
+          "difference":"00:00:15.582",
+          "position":"14"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:45.648",
+          "time":"00:07:46.268",
+          "difference":"00:00:19.057",
+          "position":"17"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:51.414",
+          "time":"00:01:05.766",
+          "difference":"00:00:20.265",
+          "position":"19"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:07.866",
+          "time":"00:06:16.452",
+          "difference":"00:00:29.819",
+          "position":"17"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:35.337",
+          "time":"00:06:27.471",
+          "difference":"00:00:51.490",
+          "position":"17"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:40.283",
+          "time":"00:06:04.946",
+          "difference":"00:00:50.474",
+          "position":"19"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:42.111",
+          "time":"00:06:01.828",
+          "difference":"00:00:49.697",
+          "position":"19"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:46.767",
+          "time":"00:06:04.656",
+          "difference":"00:00:44.878",
+          "position":"19"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:52.233",
+          "time":"00:06:05.466",
+          "difference":"00:00:48.600",
+          "position":"18"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:58.762",
+          "time":"00:06:06.529",
+          "difference":"00:00:50.925",
+          "position":"16"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:06.234",
+          "time":"00:06:07.472",
+          "difference":"00:00:54.420",
+          "position":"14"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:23.142",
+          "time":"00:06:16.908",
+          "difference":"00:01:01.794",
+          "position":"17"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:42.953",
+          "time":"00:06:19.811",
+          "difference":"00:01:11.327",
+          "position":"13"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:14.333",
+          "time":"00:00:31.380",
+          "difference":"00:01:13.042",
+          "position":"14"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:45.082",
+          "time":"00:07:30.749",
+          "difference":"00:01:13.181",
+          "position":"15"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:56.831",
+          "time":"00:08:11.749",
+          "difference":"00:01:38.135",
+          "position":"14"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:46:24.385",
+          "time":"00:08:27.554",
+          "difference":"00:02:11.899",
+          "position":"13"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:55:14.720",
+          "time":"00:08:50.335",
+          "difference":"00:02:43.986",
+          "position":"13"
+        }
+      ]
+    },
+    {
+      "id":"49277",
+      "start_num":"51",
+      "name":"Marc Austin",
+      "country":"GBR",
+      "segment_id":"18",
+      "time":"01:55:55.169",
+      "difference":"00:03:24.435",
+      "position":"14",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:54.823",
+          "time":"00:10:54.823",
+          "difference":"00:00:11.025",
+          "position":"11"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:32.230",
+          "time":"00:07:37.407",
+          "difference":"00:00:05.639",
+          "position":"6"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:37.591",
+          "time":"00:01:05.361",
+          "difference":"00:00:06.442",
+          "position":"6"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:45.660",
+          "time":"00:06:08.069",
+          "difference":"00:00:07.613",
+          "position":"14"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:52.707",
+          "time":"00:06:07.047",
+          "difference":"00:00:08.860",
+          "position":"11"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:20.600",
+          "time":"00:06:27.893",
+          "difference":"00:00:30.791",
+          "position":"12"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:39.779",
+          "time":"00:06:19.179",
+          "difference":"00:00:47.365",
+          "position":"14"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:44.182",
+          "time":"00:06:04.403",
+          "difference":"00:00:42.293",
+          "position":"13"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:49.931",
+          "time":"00:06:05.749",
+          "difference":"00:00:46.298",
+          "position":"13"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:59.022",
+          "time":"00:06:09.091",
+          "difference":"00:00:51.185",
+          "position":"17"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:07.319",
+          "time":"00:06:08.297",
+          "difference":"00:00:55.505",
+          "position":"17"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:22.712",
+          "time":"00:06:15.393",
+          "difference":"00:01:01.364",
+          "position":"15"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:45.000",
+          "time":"00:06:22.288",
+          "difference":"00:01:13.374",
+          "position":"18"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:14.555",
+          "time":"00:00:29.555",
+          "difference":"00:01:13.264",
+          "position":"15"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:30:08.596",
+          "time":"00:07:54.041",
+          "difference":"00:01:36.695",
+          "position":"16"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:38:24.820",
+          "time":"00:08:16.224",
+          "difference":"00:02:06.124",
+          "position":"15"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:47:08.304",
+          "time":"00:08:43.484",
+          "difference":"00:02:55.818",
+          "position":"15"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:55:55.169",
+          "time":"00:08:46.865",
+          "difference":"00:03:24.435",
+          "position":"14"
+        }
+      ]
+    },
+    {
+      "id":"21622",
+      "start_num":"34",
+      "name":"Alois Knabl",
+      "country":"AUT",
+      "segment_id":"18",
+      "time":"01:56:01.380",
+      "difference":"00:03:30.646",
+      "position":"15",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:51.716",
+          "time":"00:10:51.716",
+          "difference":"00:00:07.918",
+          "position":"7"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:33.298",
+          "time":"00:07:41.582",
+          "difference":"00:00:06.707",
+          "position":"7"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:40.564",
+          "time":"00:01:07.266",
+          "difference":"00:00:09.415",
+          "position":"11"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:46.048",
+          "time":"00:06:05.484",
+          "difference":"00:00:08.001",
+          "position":"15"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:53.480",
+          "time":"00:06:07.432",
+          "difference":"00:00:09.633",
+          "position":"12"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:20.285",
+          "time":"00:06:26.805",
+          "difference":"00:00:30.476",
+          "position":"11"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:40.217",
+          "time":"00:06:19.932",
+          "difference":"00:00:47.803",
+          "position":"15"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:44.473",
+          "time":"00:06:04.256",
+          "difference":"00:00:42.584",
+          "position":"14"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:50.587",
+          "time":"00:06:06.114",
+          "difference":"00:00:46.954",
+          "position":"14"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:59.501",
+          "time":"00:06:08.914",
+          "difference":"00:00:51.664",
+          "position":"18"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:07.983",
+          "time":"00:06:08.482",
+          "difference":"00:00:56.169",
+          "position":"18"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:23.434",
+          "time":"00:06:15.451",
+          "difference":"00:01:02.086",
+          "position":"18"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:44.988",
+          "time":"00:06:21.554",
+          "difference":"00:01:13.362",
+          "position":"17"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:18.180",
+          "time":"00:00:33.192",
+          "difference":"00:01:16.889",
+          "position":"20"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:30:09.031",
+          "time":"00:07:50.851",
+          "difference":"00:01:37.130",
+          "position":"17"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:38:41.251",
+          "time":"00:08:32.220",
+          "difference":"00:02:22.555",
+          "position":"16"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:47:18.522",
+          "time":"00:08:37.271",
+          "difference":"00:03:06.036",
+          "position":"16"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:56:01.380",
+          "time":"00:08:42.858",
+          "difference":"00:03:30.646",
+          "position":"15"
+        }
+      ]
+    },
+    {
+      "id":"17043",
+      "start_num":"31",
+      "name":"Ben Kanute",
+      "country":"USA",
+      "segment_id":"18",
+      "time":"01:56:07.816",
+      "difference":"00:03:37.082",
+      "position":"16",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:50.057",
+          "time":"00:10:50.057",
+          "difference":"00:00:06.259",
+          "position":"5"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:30.284",
+          "time":"00:07:40.227",
+          "difference":"00:00:03.693",
+          "position":"4"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:33.968",
+          "time":"00:01:03.684",
+          "difference":"00:00:02.819",
+          "position":"4"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:39.517",
+          "time":"00:06:05.549",
+          "difference":"00:00:01.470",
+          "position":"4"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:44.090",
+          "time":"00:06:04.573",
+          "difference":"00:00:00.243",
+          "position":"2"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:51.398",
+          "time":"00:06:07.308",
+          "difference":"00:00:01.589",
+          "position":"7"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:52.414",
+          "time":"00:06:01.016",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:03.160",
+          "time":"00:06:10.746",
+          "difference":"00:00:01.271",
+          "position":"5"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:03.633",
+          "time":"00:06:00.473",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:10.242",
+          "time":"00:06:06.609",
+          "difference":"00:00:02.405",
+          "position":"7"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:13.369",
+          "time":"00:06:03.127",
+          "difference":"00:00:01.555",
+          "position":"5"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:21.659",
+          "time":"00:06:08.290",
+          "difference":"00:00:00.311",
+          "position":"2"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:31.626",
+          "time":"00:06:09.967",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:01.291",
+          "time":"00:00:29.665",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:28:57.037",
+          "time":"00:07:55.746",
+          "difference":"00:00:25.136",
+          "position":"9"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:37:43.832",
+          "time":"00:08:46.795",
+          "difference":"00:01:25.136",
+          "position":"13"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:46:43.039",
+          "time":"00:08:59.207",
+          "difference":"00:02:30.553",
+          "position":"14"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:56:07.816",
+          "time":"00:09:24.777",
+          "difference":"00:03:37.082",
+          "position":"16"
+        }
+      ]
+    },
+    {
+      "id":"41276",
+      "start_num":"29",
+      "name":"Marco Van Der Stel",
+      "country":"NED",
+      "segment_id":"18",
+      "time":"01:56:25.381",
+      "difference":"00:03:54.647",
+      "position":"17",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:50.950",
+          "time":"00:10:50.950",
+          "difference":"00:00:07.152",
+          "position":"6"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:35.042",
+          "time":"00:07:44.092",
+          "difference":"00:00:08.451",
+          "position":"9"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:39.528",
+          "time":"00:01:04.486",
+          "difference":"00:00:08.379",
+          "position":"9"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:40.607",
+          "time":"00:06:01.079",
+          "difference":"00:00:02.560",
+          "position":"7"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:47.919",
+          "time":"00:06:07.312",
+          "difference":"00:00:04.072",
+          "position":"7"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:37:51.586",
+          "time":"00:06:03.667",
+          "difference":"00:00:01.777",
+          "position":"8"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:43:54.105",
+          "time":"00:06:02.519",
+          "difference":"00:00:01.691",
+          "position":"6"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:02.805",
+          "time":"00:06:08.700",
+          "difference":"00:00:00.916",
+          "position":"4"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:04.752",
+          "time":"00:06:01.947",
+          "difference":"00:00:01.119",
+          "position":"4"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:10.762",
+          "time":"00:06:06.010",
+          "difference":"00:00:02.925",
+          "position":"9"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:08:13.765",
+          "time":"00:06:03.003",
+          "difference":"00:00:01.951",
+          "position":"6"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:14:22.975",
+          "time":"00:06:09.210",
+          "difference":"00:00:01.627",
+          "position":"6"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:20:34.755",
+          "time":"00:06:11.780",
+          "difference":"00:00:03.129",
+          "position":"10"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:21:07.390",
+          "time":"00:00:32.635",
+          "difference":"00:00:06.099",
+          "position":"8"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:40.815",
+          "time":"00:08:33.425",
+          "difference":"00:01:08.914",
+          "position":"14"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:38:42.489",
+          "time":"00:09:01.674",
+          "difference":"00:02:23.793",
+          "position":"17"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:47:33.022",
+          "time":"00:08:50.533",
+          "difference":"00:03:20.536",
+          "position":"17"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:56:25.381",
+          "time":"00:08:52.359",
+          "difference":"00:03:54.647",
+          "position":"17"
+        }
+      ]
+    },
+    {
+      "id":"47796",
+      "start_num":"41",
+      "name":"Ilya Prasolov",
+      "country":"RUS",
+      "segment_id":"18",
+      "time":"01:56:50.817",
+      "difference":"00:04:20.083",
+      "position":"18",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:02.963",
+          "time":"00:11:02.963",
+          "difference":"00:00:19.165",
+          "position":"18"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:46.313",
+          "time":"00:07:43.350",
+          "difference":"00:00:19.722",
+          "position":"18"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:50.353",
+          "time":"00:01:04.040",
+          "difference":"00:00:19.204",
+          "position":"18"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:08.557",
+          "time":"00:06:18.204",
+          "difference":"00:00:30.510",
+          "position":"18"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:36.795",
+          "time":"00:06:28.238",
+          "difference":"00:00:52.948",
+          "position":"21"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:42.089",
+          "time":"00:06:05.294",
+          "difference":"00:00:52.280",
+          "position":"24"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:41.432",
+          "time":"00:05:59.343",
+          "difference":"00:00:49.018",
+          "position":"17"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:45.166",
+          "time":"00:06:03.734",
+          "difference":"00:00:43.277",
+          "position":"16"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:52.793",
+          "time":"00:06:07.627",
+          "difference":"00:00:49.160",
+          "position":"20"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:03:00.507",
+          "time":"00:06:07.714",
+          "difference":"00:00:52.670",
+          "position":"20"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:08.304",
+          "time":"00:06:07.797",
+          "difference":"00:00:56.490",
+          "position":"19"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:24.105",
+          "time":"00:06:15.801",
+          "difference":"00:01:02.757",
+          "position":"20"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:44.395",
+          "time":"00:06:20.290",
+          "difference":"00:01:12.769",
+          "position":"16"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:17.040",
+          "time":"00:00:32.645",
+          "difference":"00:01:15.749",
+          "position":"19"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:30:14.225",
+          "time":"00:07:57.185",
+          "difference":"00:01:42.324",
+          "position":"18"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:39:02.740",
+          "time":"00:08:48.515",
+          "difference":"00:02:44.044",
+          "position":"18"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:47:56.433",
+          "time":"00:08:53.693",
+          "difference":"00:03:43.947",
+          "position":"18"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:56:50.817",
+          "time":"00:08:54.384",
+          "difference":"00:04:20.083",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"10539",
+      "start_num":"17",
+      "name":"Joao Silva",
+      "country":"POR",
+      "segment_id":"18",
+      "time":"01:57:03.207",
+      "difference":"00:04:32.473",
+      "position":"19",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:24.155",
+          "time":"00:11:24.155",
+          "difference":"00:00:40.357",
+          "position":"28"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:24.072",
+          "time":"00:07:59.917",
+          "difference":"00:00:57.481",
+          "position":"28"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:25.712",
+          "time":"00:01:01.640",
+          "difference":"00:00:54.563",
+          "position":"27"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:38.768",
+          "time":"00:06:13.056",
+          "difference":"00:01:00.721",
+          "position":"29"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:07.205",
+          "time":"00:06:28.437",
+          "difference":"00:01:23.358",
+          "position":"29"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:36.167",
+          "time":"00:06:28.962",
+          "difference":"00:01:46.358",
+          "position":"29"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:56.837",
+          "time":"00:06:20.670",
+          "difference":"00:02:04.423",
+          "position":"33"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:15.528",
+          "time":"00:06:18.691",
+          "difference":"00:02:13.639",
+          "position":"33"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:33.382",
+          "time":"00:06:17.854",
+          "difference":"00:02:29.749",
+          "position":"28"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:54.787",
+          "time":"00:06:21.405",
+          "difference":"00:02:46.950",
+          "position":"25"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:26.161",
+          "time":"00:06:31.374",
+          "difference":"00:03:14.347",
+          "position":"24"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:17:58.498",
+          "time":"00:06:32.337",
+          "difference":"00:03:37.150",
+          "position":"21"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:42.542",
+          "time":"00:06:44.044",
+          "difference":"00:04:10.916",
+          "position":"28"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:16.694",
+          "time":"00:00:34.152",
+          "difference":"00:04:15.403",
+          "position":"30"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:40.012",
+          "time":"00:07:23.318",
+          "difference":"00:04:08.111",
+          "position":"23"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:40:45.704",
+          "time":"00:08:05.692",
+          "difference":"00:04:27.008",
+          "position":"22"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:48:56.602",
+          "time":"00:08:10.898",
+          "difference":"00:04:44.116",
+          "position":"21"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:03.207",
+          "time":"00:08:06.605",
+          "difference":"00:04:32.473",
+          "position":"19"
+        }
+      ]
+    },
+    {
+      "id":"32470",
+      "start_num":"7",
+      "name":"Adam Bowden",
+      "country":"GBR",
+      "segment_id":"18",
+      "time":"01:57:14.256",
+      "difference":"00:04:43.522",
+      "position":"20",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:31.199",
+          "time":"00:11:31.199",
+          "difference":"00:00:47.401",
+          "position":"31"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:41.890",
+          "time":"00:08:10.691",
+          "difference":"00:01:15.299",
+          "position":"33"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:50.045",
+          "time":"00:01:08.155",
+          "difference":"00:01:18.896",
+          "position":"34"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:08.877",
+          "time":"00:06:18.832",
+          "difference":"00:01:30.830",
+          "position":"31"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:27.095",
+          "time":"00:06:18.218",
+          "difference":"00:01:43.248",
+          "position":"33"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:40.222",
+          "time":"00:06:13.127",
+          "difference":"00:01:50.413",
+          "position":"30"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:55.816",
+          "time":"00:06:15.594",
+          "difference":"00:02:03.402",
+          "position":"29"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:12.844",
+          "time":"00:06:17.028",
+          "difference":"00:02:10.955",
+          "position":"26"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:32.255",
+          "time":"00:06:19.411",
+          "difference":"00:02:28.622",
+          "position":"25"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:52.477",
+          "time":"00:06:20.222",
+          "difference":"00:02:44.640",
+          "position":"21"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:26.444",
+          "time":"00:06:33.967",
+          "difference":"00:03:14.630",
+          "position":"25"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:17:59.331",
+          "time":"00:06:32.887",
+          "difference":"00:03:37.983",
+          "position":"23"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:41.033",
+          "time":"00:06:41.702",
+          "difference":"00:04:09.407",
+          "position":"22"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:12.254",
+          "time":"00:00:31.221",
+          "difference":"00:04:10.963",
+          "position":"23"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:39.507",
+          "time":"00:07:27.253",
+          "difference":"00:04:07.606",
+          "position":"21"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:40:45.332",
+          "time":"00:08:05.825",
+          "difference":"00:04:26.636",
+          "position":"20"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:48:56.146",
+          "time":"00:08:10.814",
+          "difference":"00:04:43.660",
+          "position":"19"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:14.256",
+          "time":"00:08:18.110",
+          "difference":"00:04:43.522",
+          "position":"20"
+        }
+      ]
+    },
+    {
+      "id":"7503",
+      "start_num":"5",
+      "name":"Crisanto Grajales",
+      "country":"MEX",
+      "segment_id":"18",
+      "time":"01:57:26.872",
+      "difference":"00:04:56.138",
+      "position":"21",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:00.950",
+          "time":"00:11:00.950",
+          "difference":"00:00:17.152",
+          "position":"17"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:47.258",
+          "time":"00:07:46.308",
+          "difference":"00:00:20.667",
+          "position":"19"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:49.820",
+          "time":"00:01:02.562",
+          "difference":"00:00:18.671",
+          "position":"17"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:15.862",
+          "time":"00:06:26.042",
+          "difference":"00:00:37.815",
+          "position":"19"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:37.144",
+          "time":"00:06:21.282",
+          "difference":"00:00:53.297",
+          "position":"22"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:02.547",
+          "time":"00:06:25.403",
+          "difference":"00:01:12.738",
+          "position":"26"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:42.443",
+          "time":"00:06:39.896",
+          "difference":"00:01:50.029",
+          "position":"26"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:14.081",
+          "time":"00:06:31.638",
+          "difference":"00:02:12.192",
+          "position":"29"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:31.758",
+          "time":"00:06:17.677",
+          "difference":"00:02:28.125",
+          "position":"24"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:55.700",
+          "time":"00:06:23.942",
+          "difference":"00:02:47.863",
+          "position":"28"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:27.153",
+          "time":"00:06:31.453",
+          "difference":"00:03:15.339",
+          "position":"27"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:01.167",
+          "time":"00:06:34.014",
+          "difference":"00:03:39.819",
+          "position":"28"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:42.069",
+          "time":"00:06:40.902",
+          "difference":"00:04:10.443",
+          "position":"26"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:15.137",
+          "time":"00:00:33.068",
+          "difference":"00:04:13.846",
+          "position":"26"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:53.869",
+          "time":"00:07:38.732",
+          "difference":"00:04:21.968",
+          "position":"26"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:02.046",
+          "time":"00:08:08.177",
+          "difference":"00:04:43.350",
+          "position":"24"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:10.708",
+          "time":"00:08:08.662",
+          "difference":"00:04:58.222",
+          "position":"23"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:26.872",
+          "time":"00:08:16.164",
+          "difference":"00:04:56.138",
+          "position":"21"
+        }
+      ]
+    },
+    {
+      "id":"7747",
+      "start_num":"11",
+      "name":"Dmitry Polyanskiy",
+      "country":"RUS",
+      "segment_id":"18",
+      "time":"01:57:36.684",
+      "difference":"00:05:05.950",
+      "position":"22",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:49.193",
+          "time":"00:10:49.193",
+          "difference":"00:00:05.395",
+          "position":"4"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:30.772",
+          "time":"00:07:41.579",
+          "difference":"00:00:04.181",
+          "position":"5"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:33.271",
+          "time":"00:01:02.499",
+          "difference":"00:00:02.122",
+          "position":"3"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:42.847",
+          "time":"00:06:09.576",
+          "difference":"00:00:04.800",
+          "position":"9"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:02.932",
+          "time":"00:06:20.085",
+          "difference":"00:00:19.085",
+          "position":"14"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:41.571",
+          "time":"00:06:38.639",
+          "difference":"00:00:51.762",
+          "position":"22"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:48.065",
+          "time":"00:06:06.494",
+          "difference":"00:00:55.651",
+          "position":"21"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:55.230",
+          "time":"00:07:07.165",
+          "difference":"00:01:53.341",
+          "position":"24"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:36.576",
+          "time":"00:06:41.346",
+          "difference":"00:02:32.943",
+          "position":"36"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:58.046",
+          "time":"00:06:21.470",
+          "difference":"00:02:50.209",
+          "position":"36"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:30.128",
+          "time":"00:06:32.082",
+          "difference":"00:03:18.314",
+          "position":"35"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:03.739",
+          "time":"00:06:33.611",
+          "difference":"00:03:42.391",
+          "position":"35"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:44.975",
+          "time":"00:06:41.236",
+          "difference":"00:04:13.349",
+          "position":"31"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:15.499",
+          "time":"00:00:30.524",
+          "difference":"00:04:14.208",
+          "position":"27"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:39.718",
+          "time":"00:07:24.219",
+          "difference":"00:04:07.817",
+          "position":"22"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:40:45.628",
+          "time":"00:08:05.910",
+          "difference":"00:04:26.932",
+          "position":"21"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:48:56.401",
+          "time":"00:08:10.773",
+          "difference":"00:04:43.915",
+          "position":"20"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:36.684",
+          "time":"00:08:40.283",
+          "difference":"00:05:05.950",
+          "position":"22"
+        }
+      ]
+    },
+    {
+      "id":"15838",
+      "start_num":"36",
+      "name":"Lukas Hollaus",
+      "country":"AUT",
+      "segment_id":"18",
+      "time":"01:57:38.622",
+      "difference":"00:05:07.888",
+      "position":"23",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:31.078",
+          "time":"00:11:31.078",
+          "difference":"00:00:47.280",
+          "position":"30"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:34.413",
+          "time":"00:08:03.335",
+          "difference":"00:01:07.822",
+          "position":"30"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:39.197",
+          "time":"00:01:04.784",
+          "difference":"00:01:08.048",
+          "position":"30"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:51.083",
+          "time":"00:06:11.886",
+          "difference":"00:01:13.036",
+          "position":"30"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:26.200",
+          "time":"00:06:35.117",
+          "difference":"00:01:42.353",
+          "position":"31"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:40.966",
+          "time":"00:06:14.766",
+          "difference":"00:01:51.157",
+          "position":"32"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:56.190",
+          "time":"00:06:15.224",
+          "difference":"00:02:03.776",
+          "position":"30"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:14.437",
+          "time":"00:06:18.247",
+          "difference":"00:02:12.548",
+          "position":"30"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:30.686",
+          "time":"00:06:16.249",
+          "difference":"00:02:27.053",
+          "position":"21"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:53.729",
+          "time":"00:06:23.043",
+          "difference":"00:02:45.892",
+          "position":"23"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:26.830",
+          "time":"00:06:33.101",
+          "difference":"00:03:15.016",
+          "position":"26"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:00.177",
+          "time":"00:06:33.347",
+          "difference":"00:03:38.829",
+          "position":"25"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:39.636",
+          "time":"00:06:39.459",
+          "difference":"00:04:08.010",
+          "position":"21"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:07.312",
+          "time":"00:00:27.676",
+          "difference":"00:04:06.021",
+          "position":"22"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:46.639",
+          "time":"00:07:39.327",
+          "difference":"00:04:14.738",
+          "position":"24"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:02.200",
+          "time":"00:08:15.561",
+          "difference":"00:04:43.504",
+          "position":"25"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:16.890",
+          "time":"00:08:14.690",
+          "difference":"00:05:04.404",
+          "position":"24"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:38.622",
+          "time":"00:08:21.732",
+          "difference":"00:05:07.888",
+          "position":"23"
+        }
+      ]
+    },
+    {
+      "id":"49084",
+      "start_num":"40",
+      "name":"Lukas Pertl",
+      "country":"AUT",
+      "segment_id":"18",
+      "time":"01:57:40.425",
+      "difference":"00:05:09.691",
+      "position":"24",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:35.669",
+          "time":"00:11:35.669",
+          "difference":"00:00:51.871",
+          "position":"35"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:45.258",
+          "time":"00:08:09.589",
+          "difference":"00:01:18.667",
+          "position":"34"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:49.112",
+          "time":"00:01:03.854",
+          "difference":"00:01:17.963",
+          "position":"33"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:09.742",
+          "time":"00:06:20.630",
+          "difference":"00:01:31.695",
+          "position":"33"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:25.633",
+          "time":"00:06:15.891",
+          "difference":"00:01:41.786",
+          "position":"30"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:40.491",
+          "time":"00:06:14.858",
+          "difference":"00:01:50.682",
+          "position":"31"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:56.462",
+          "time":"00:06:15.971",
+          "difference":"00:02:04.048",
+          "position":"31"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:15.844",
+          "time":"00:06:19.382",
+          "difference":"00:02:13.955",
+          "position":"34"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:34.628",
+          "time":"00:06:18.784",
+          "difference":"00:02:30.995",
+          "position":"31"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:56.463",
+          "time":"00:06:21.835",
+          "difference":"00:02:48.626",
+          "position":"30"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:28.814",
+          "time":"00:06:32.351",
+          "difference":"00:03:17.000",
+          "position":"31"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:02.010",
+          "time":"00:06:33.196",
+          "difference":"00:03:40.662",
+          "position":"31"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:41.246",
+          "time":"00:06:39.236",
+          "difference":"00:04:09.620",
+          "position":"23"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:07.305",
+          "time":"00:00:26.059",
+          "difference":"00:04:06.014",
+          "position":"21"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:49.151",
+          "time":"00:07:41.846",
+          "difference":"00:04:17.250",
+          "position":"25"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:03.658",
+          "time":"00:08:14.507",
+          "difference":"00:04:44.962",
+          "position":"26"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:20.161",
+          "time":"00:08:16.503",
+          "difference":"00:05:07.675",
+          "position":"25"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:57:40.425",
+          "time":"00:08:20.264",
+          "difference":"00:05:09.691",
+          "position":"24"
+        }
+      ]
+    },
+    {
+      "id":"58385",
+      "start_num":"46",
+      "name":"Sylvain Fridelance",
+      "country":"SUI",
+      "segment_id":"18",
+      "time":"01:58:26.131",
+      "difference":"00:05:55.397",
+      "position":"25",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:21.672",
+          "time":"00:11:21.672",
+          "difference":"00:00:37.874",
+          "position":"25"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:16.983",
+          "time":"00:07:55.311",
+          "difference":"00:00:50.392",
+          "position":"24"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:21.415",
+          "time":"00:01:04.432",
+          "difference":"00:00:50.266",
+          "position":"23"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:26.030",
+          "time":"00:06:04.615",
+          "difference":"00:00:47.983",
+          "position":"23"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:38.396",
+          "time":"00:06:12.366",
+          "difference":"00:00:54.549",
+          "position":"25"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:40.537",
+          "time":"00:06:02.141",
+          "difference":"00:00:50.728",
+          "position":"20"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:40.837",
+          "time":"00:06:00.300",
+          "difference":"00:00:48.423",
+          "position":"16"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:47.034",
+          "time":"00:06:06.197",
+          "difference":"00:00:45.145",
+          "position":"20"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:52.503",
+          "time":"00:06:05.469",
+          "difference":"00:00:48.870",
+          "position":"19"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:58.453",
+          "time":"00:06:05.950",
+          "difference":"00:00:50.616",
+          "position":"15"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:05.918",
+          "time":"00:06:07.465",
+          "difference":"00:00:54.104",
+          "position":"13"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:22.813",
+          "time":"00:06:16.895",
+          "difference":"00:01:01.465",
+          "position":"16"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:45.847",
+          "time":"00:06:23.034",
+          "difference":"00:01:14.221",
+          "position":"20"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:16.971",
+          "time":"00:00:31.124",
+          "difference":"00:01:15.680",
+          "position":"18"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:30:27.182",
+          "time":"00:08:10.211",
+          "difference":"00:01:55.281",
+          "position":"19"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:39:59.946",
+          "time":"00:09:32.764",
+          "difference":"00:03:41.250",
+          "position":"19"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:06.959",
+          "time":"00:09:07.013",
+          "difference":"00:04:54.473",
+          "position":"22"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:58:26.131",
+          "time":"00:09:19.172",
+          "difference":"00:05:55.397",
+          "position":"25"
+        }
+      ]
+    },
+    {
+      "id":"29395",
+      "start_num":"25",
+      "name":"Davide Uccellari",
+      "country":"ITA",
+      "segment_id":"18",
+      "time":"01:58:49.002",
+      "difference":"00:06:18.268",
+      "position":"26",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:18.150",
+          "time":"00:11:18.150",
+          "difference":"00:00:34.352",
+          "position":"23"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:15.451",
+          "time":"00:07:57.301",
+          "difference":"00:00:48.860",
+          "position":"23"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:26.929",
+          "time":"00:01:11.478",
+          "difference":"00:00:55.780",
+          "position":"28"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:37.152",
+          "time":"00:06:10.223",
+          "difference":"00:00:59.105",
+          "position":"27"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:05.456",
+          "time":"00:06:28.304",
+          "difference":"00:01:21.609",
+          "position":"27"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:35.221",
+          "time":"00:06:29.765",
+          "difference":"00:01:45.412",
+          "position":"27"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:56.779",
+          "time":"00:06:21.558",
+          "difference":"00:02:04.365",
+          "position":"32"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:15.146",
+          "time":"00:06:18.367",
+          "difference":"00:02:13.257",
+          "position":"32"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:34.078",
+          "time":"00:06:18.932",
+          "difference":"00:02:30.445",
+          "position":"30"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:56.067",
+          "time":"00:06:21.989",
+          "difference":"00:02:48.230",
+          "position":"29"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:27.813",
+          "time":"00:06:31.746",
+          "difference":"00:03:15.999",
+          "position":"29"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:00.888",
+          "time":"00:06:33.075",
+          "difference":"00:03:39.540",
+          "position":"27"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:43.437",
+          "time":"00:06:42.549",
+          "difference":"00:04:11.811",
+          "position":"29"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:16.437",
+          "time":"00:00:33.000",
+          "difference":"00:04:15.146",
+          "position":"29"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:59.705",
+          "time":"00:07:43.268",
+          "difference":"00:04:27.804",
+          "position":"27"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:22.145",
+          "time":"00:08:22.440",
+          "difference":"00:05:03.449",
+          "position":"27"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:50.460",
+          "time":"00:08:28.315",
+          "difference":"00:05:37.974",
+          "position":"26"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:58:49.002",
+          "time":"00:08:58.542",
+          "difference":"00:06:18.268",
+          "position":"26"
+        }
+      ]
+    },
+    {
+      "id":"7742",
+      "start_num":"33",
+      "name":"Miguel Arraiolos",
+      "country":"POR",
+      "segment_id":"18",
+      "time":"01:59:15.719",
+      "difference":"00:06:44.985",
+      "position":"27",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:32.626",
+          "time":"00:11:32.626",
+          "difference":"00:00:48.828",
+          "position":"33"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:39.527",
+          "time":"00:08:06.901",
+          "difference":"00:01:12.936",
+          "position":"32"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:47.347",
+          "time":"00:01:07.820",
+          "difference":"00:01:16.198",
+          "position":"32"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:09.418",
+          "time":"00:06:22.071",
+          "difference":"00:01:31.371",
+          "position":"32"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:27.535",
+          "time":"00:06:18.117",
+          "difference":"00:01:43.688",
+          "position":"34"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:42.584",
+          "time":"00:06:15.049",
+          "difference":"00:01:52.775",
+          "position":"36"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:57.124",
+          "time":"00:06:14.540",
+          "difference":"00:02:04.710",
+          "position":"34"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:13.273",
+          "time":"00:06:16.149",
+          "difference":"00:02:11.384",
+          "position":"27"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:33.690",
+          "time":"00:06:20.417",
+          "difference":"00:02:30.057",
+          "position":"29"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:55.082",
+          "time":"00:06:21.392",
+          "difference":"00:02:47.245",
+          "position":"26"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:27.451",
+          "time":"00:06:32.369",
+          "difference":"00:03:15.637",
+          "position":"28"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:00.513",
+          "time":"00:06:33.062",
+          "difference":"00:03:39.165",
+          "position":"26"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:42.520",
+          "time":"00:06:42.007",
+          "difference":"00:04:10.894",
+          "position":"27"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:19.305",
+          "time":"00:00:36.785",
+          "difference":"00:04:18.014",
+          "position":"31"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:00.040",
+          "time":"00:07:40.735",
+          "difference":"00:04:28.139",
+          "position":"28"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:22.410",
+          "time":"00:08:22.370",
+          "difference":"00:05:03.714",
+          "position":"28"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:49:59.799",
+          "time":"00:08:37.389",
+          "difference":"00:05:47.313",
+          "position":"27"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:59:15.719",
+          "time":"00:09:15.920",
+          "difference":"00:06:44.985",
+          "position":"27"
+        }
+      ]
+    },
+    {
+      "id":"6707",
+      "start_num":"21",
+      "name":"Jan Celustka",
+      "country":"CZE",
+      "segment_id":"18",
+      "time":"01:59:40.092",
+      "difference":"00:07:09.358",
+      "position":"28",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:06.877",
+          "time":"00:11:06.877",
+          "difference":"00:00:23.079",
+          "position":"19"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:38.924",
+          "time":"00:07:32.047",
+          "difference":"00:00:12.333",
+          "position":"16"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:43.204",
+          "time":"00:01:04.280",
+          "difference":"00:00:12.055",
+          "position":"15"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:49.364",
+          "time":"00:06:06.160",
+          "difference":"00:00:11.317",
+          "position":"16"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:38.035",
+          "time":"00:06:48.671",
+          "difference":"00:00:54.188",
+          "position":"24"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:54.230",
+          "time":"00:06:16.195",
+          "difference":"00:01:04.421",
+          "position":"25"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:40.463",
+          "time":"00:06:46.233",
+          "difference":"00:01:48.049",
+          "position":"25"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:13.786",
+          "time":"00:06:33.323",
+          "difference":"00:02:11.897",
+          "position":"28"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:32.648",
+          "time":"00:06:18.862",
+          "difference":"00:02:29.015",
+          "position":"26"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:54.281",
+          "time":"00:06:21.633",
+          "difference":"00:02:46.444",
+          "position":"24"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:24.816",
+          "time":"00:06:30.535",
+          "difference":"00:03:13.002",
+          "position":"21"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:17:59.843",
+          "time":"00:06:35.027",
+          "difference":"00:03:38.495",
+          "position":"24"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:41.393",
+          "time":"00:06:41.550",
+          "difference":"00:04:09.767",
+          "position":"24"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:14.137",
+          "time":"00:00:32.744",
+          "difference":"00:04:12.846",
+          "position":"25"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:28.893",
+          "time":"00:08:14.756",
+          "difference":"00:04:56.992",
+          "position":"32"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:06.266",
+          "time":"00:08:37.373",
+          "difference":"00:05:47.570",
+          "position":"30"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:50:54.214",
+          "time":"00:08:47.948",
+          "difference":"00:06:41.728",
+          "position":"31"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:59:40.092",
+          "time":"00:08:45.878",
+          "difference":"00:07:09.358",
+          "position":"28"
+        }
+      ]
+    },
+    {
+      "id":"51350",
+      "start_num":"47",
+      "name":"Jorik Van Egdom",
+      "country":"NED",
+      "segment_id":"18",
+      "time":"01:59:58.933",
+      "difference":"00:07:28.199",
+      "position":"29",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:38.825",
+          "time":"00:11:38.825",
+          "difference":"00:00:55.027",
+          "position":"36"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:20:13.499",
+          "time":"00:08:34.674",
+          "difference":"00:01:46.908",
+          "position":"36"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:21:17.907",
+          "time":"00:01:04.408",
+          "difference":"00:01:46.758",
+          "position":"36"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:22.031",
+          "time":"00:06:04.124",
+          "difference":"00:01:43.984",
+          "position":"36"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:30.397",
+          "time":"00:06:08.366",
+          "difference":"00:01:46.550",
+          "position":"36"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:41.708",
+          "time":"00:06:11.311",
+          "difference":"00:01:51.899",
+          "position":"34"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:55.534",
+          "time":"00:06:13.826",
+          "difference":"00:02:03.120",
+          "position":"28"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:14.783",
+          "time":"00:06:19.249",
+          "difference":"00:02:12.894",
+          "position":"31"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:31.530",
+          "time":"00:06:16.747",
+          "difference":"00:02:27.897",
+          "position":"23"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:53.343",
+          "time":"00:06:21.813",
+          "difference":"00:02:45.506",
+          "position":"22"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:25.766",
+          "time":"00:06:32.423",
+          "difference":"00:03:13.952",
+          "position":"23"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:01.713",
+          "time":"00:06:35.947",
+          "difference":"00:03:40.365",
+          "position":"30"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:41.698",
+          "time":"00:06:39.985",
+          "difference":"00:04:10.072",
+          "position":"25"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:13.637",
+          "time":"00:00:31.939",
+          "difference":"00:04:12.346",
+          "position":"24"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:14.801",
+          "time":"00:08:01.164",
+          "difference":"00:04:42.900",
+          "position":"29"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:41:52.953",
+          "time":"00:08:38.152",
+          "difference":"00:05:34.257",
+          "position":"29"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:50:45.064",
+          "time":"00:08:52.111",
+          "difference":"00:06:32.578",
+          "position":"29"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:59:58.933",
+          "time":"00:09:13.869",
+          "difference":"00:07:28.199",
+          "position":"29"
+        }
+      ]
+    },
+    {
+      "id":"11408",
+      "start_num":"19",
+      "name":"Tamás Tóth",
+      "country":"HUN",
+      "segment_id":"18",
+      "time":"02:00:03.736",
+      "difference":"00:07:33.002",
+      "position":"30",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:23.036",
+          "time":"00:11:23.036",
+          "difference":"00:00:39.238",
+          "position":"27"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:20.242",
+          "time":"00:07:57.206",
+          "difference":"00:00:53.651",
+          "position":"26"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:24.593",
+          "time":"00:01:04.351",
+          "difference":"00:00:53.444",
+          "position":"26"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:38.431",
+          "time":"00:06:13.838",
+          "difference":"00:01:00.384",
+          "position":"28"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:06.857",
+          "time":"00:06:28.426",
+          "difference":"00:01:23.010",
+          "position":"28"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:35.635",
+          "time":"00:06:28.778",
+          "difference":"00:01:45.826",
+          "position":"28"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:57.587",
+          "time":"00:06:21.952",
+          "difference":"00:02:05.173",
+          "position":"35"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:16.727",
+          "time":"00:06:19.140",
+          "difference":"00:02:14.838",
+          "position":"35"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:35.420",
+          "time":"00:06:18.693",
+          "difference":"00:02:31.787",
+          "position":"33"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:56.738",
+          "time":"00:06:21.318",
+          "difference":"00:02:48.901",
+          "position":"31"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:28.503",
+          "time":"00:06:31.765",
+          "difference":"00:03:16.689",
+          "position":"30"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:02.957",
+          "time":"00:06:34.454",
+          "difference":"00:03:41.609",
+          "position":"33"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:47.203",
+          "time":"00:06:44.246",
+          "difference":"00:04:15.577",
+          "position":"35"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:20.618",
+          "time":"00:00:33.415",
+          "difference":"00:04:19.327",
+          "position":"34"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:21.056",
+          "time":"00:08:00.438",
+          "difference":"00:04:49.155",
+          "position":"30"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:06.773",
+          "time":"00:08:45.717",
+          "difference":"00:05:48.077",
+          "position":"31"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:50:54.060",
+          "time":"00:08:47.287",
+          "difference":"00:06:41.574",
+          "position":"30"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:00:03.736",
+          "time":"00:09:09.676",
+          "difference":"00:07:33.002",
+          "position":"30"
+        }
+      ]
+    },
+    {
+      "id":"18417",
+      "start_num":"23",
+      "name":"Stefan Zachaeus",
+      "country":"LUX",
+      "segment_id":"18",
+      "time":"02:00:17.824",
+      "difference":"00:07:47.090",
+      "position":"31",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:22.071",
+          "time":"00:11:22.071",
+          "difference":"00:00:38.273",
+          "position":"26"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:20.339",
+          "time":"00:07:58.268",
+          "difference":"00:00:53.748",
+          "position":"27"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:23.158",
+          "time":"00:01:02.819",
+          "difference":"00:00:52.009",
+          "position":"24"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:26.456",
+          "time":"00:06:03.298",
+          "difference":"00:00:48.409",
+          "position":"24"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:36.451",
+          "time":"00:06:09.995",
+          "difference":"00:00:52.604",
+          "position":"19"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:39.091",
+          "time":"00:06:02.640",
+          "difference":"00:00:49.282",
+          "position":"16"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:42.396",
+          "time":"00:06:03.305",
+          "difference":"00:00:49.982",
+          "position":"20"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:45.752",
+          "time":"00:06:03.356",
+          "difference":"00:00:43.863",
+          "position":"17"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:51.070",
+          "time":"00:06:05.318",
+          "difference":"00:00:47.437",
+          "position":"15"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:03:00.185",
+          "time":"00:06:09.115",
+          "difference":"00:00:52.348",
+          "position":"19"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:08.644",
+          "time":"00:06:08.459",
+          "difference":"00:00:56.830",
+          "position":"20"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:23.796",
+          "time":"00:06:15.152",
+          "difference":"00:01:02.448",
+          "position":"19"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:45.518",
+          "time":"00:06:21.722",
+          "difference":"00:01:13.892",
+          "position":"19"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:14.873",
+          "time":"00:00:29.355",
+          "difference":"00:01:13.582",
+          "position":"16"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:31:21.126",
+          "time":"00:09:06.253",
+          "difference":"00:02:49.225",
+          "position":"20"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:40:56.767",
+          "time":"00:09:35.641",
+          "difference":"00:04:38.071",
+          "position":"23"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:50:34.118",
+          "time":"00:09:37.351",
+          "difference":"00:06:21.632",
+          "position":"28"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:00:17.824",
+          "time":"00:09:43.706",
+          "difference":"00:07:47.090",
+          "position":"31"
+        }
+      ]
+    },
+    {
+      "id":"11979",
+      "start_num":"24",
+      "name":"Thomas Springer",
+      "country":"AUT",
+      "segment_id":"18",
+      "time":"02:00:35.167",
+      "difference":"00:08:04.433",
+      "position":"32",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:35.162",
+          "time":"00:11:35.162",
+          "difference":"00:00:51.364",
+          "position":"34"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:50.591",
+          "time":"00:08:15.429",
+          "difference":"00:01:24.000",
+          "position":"35"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:54.147",
+          "time":"00:01:03.556",
+          "difference":"00:01:22.998",
+          "position":"35"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:10.437",
+          "time":"00:06:16.290",
+          "difference":"00:01:32.390",
+          "position":"35"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:27.905",
+          "time":"00:06:17.468",
+          "difference":"00:01:44.058",
+          "position":"35"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:41.376",
+          "time":"00:06:13.471",
+          "difference":"00:01:51.567",
+          "position":"33"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:58.034",
+          "time":"00:06:16.658",
+          "difference":"00:02:05.620",
+          "position":"36"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:17.079",
+          "time":"00:06:19.045",
+          "difference":"00:02:15.190",
+          "position":"36"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:36.186",
+          "time":"00:06:19.107",
+          "difference":"00:02:32.553",
+          "position":"35"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:57.167",
+          "time":"00:06:20.981",
+          "difference":"00:02:49.330",
+          "position":"34"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:29.627",
+          "time":"00:06:32.460",
+          "difference":"00:03:17.813",
+          "position":"34"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:03.288",
+          "time":"00:06:33.661",
+          "difference":"00:03:41.940",
+          "position":"34"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:48.257",
+          "time":"00:06:44.969",
+          "difference":"00:04:16.631",
+          "position":"36"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:23.006",
+          "time":"00:00:34.749",
+          "difference":"00:04:21.715",
+          "position":"36"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:28.498",
+          "time":"00:08:05.492",
+          "difference":"00:04:56.597",
+          "position":"31"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:13.656",
+          "time":"00:08:45.158",
+          "difference":"00:05:54.960",
+          "position":"32"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:51:07.731",
+          "time":"00:08:54.075",
+          "difference":"00:06:55.245",
+          "position":"32"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:00:35.167",
+          "time":"00:09:27.436",
+          "difference":"00:08:04.433",
+          "position":"32"
+        }
+      ]
+    },
+    {
+      "id":"55788",
+      "start_num":"55",
+      "name":"David Luis",
+      "country":"POR",
+      "segment_id":"18",
+      "time":"02:00:58.942",
+      "difference":"00:08:28.208",
+      "position":"33",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:56.331",
+          "time":"00:10:56.331",
+          "difference":"00:00:12.533",
+          "position":"12"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:35.932",
+          "time":"00:07:39.601",
+          "difference":"00:00:09.341",
+          "position":"11"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:38.182",
+          "time":"00:01:02.250",
+          "difference":"00:00:07.033",
+          "position":"7"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:43.571",
+          "time":"00:06:05.389",
+          "difference":"00:00:05.524",
+          "position":"10"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:02.463",
+          "time":"00:06:18.892",
+          "difference":"00:00:18.616",
+          "position":"13"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:41.238",
+          "time":"00:06:38.775",
+          "difference":"00:00:51.429",
+          "position":"21"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:06.115",
+          "time":"00:06:24.877",
+          "difference":"00:01:13.701",
+          "position":"24"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:53.946",
+          "time":"00:06:47.831",
+          "difference":"00:01:52.057",
+          "position":"21"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:34.740",
+          "time":"00:06:40.794",
+          "difference":"00:02:31.107",
+          "position":"32"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:57.140",
+          "time":"00:06:22.400",
+          "difference":"00:02:49.303",
+          "position":"33"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:29.193",
+          "time":"00:06:32.053",
+          "difference":"00:03:17.379",
+          "position":"33"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:02.594",
+          "time":"00:06:33.401",
+          "difference":"00:03:41.246",
+          "position":"32"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:46.161",
+          "time":"00:06:43.567",
+          "difference":"00:04:14.535",
+          "position":"33"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:15.808",
+          "time":"00:00:29.647",
+          "difference":"00:04:14.517",
+          "position":"28"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:30.718",
+          "time":"00:08:14.910",
+          "difference":"00:04:58.817",
+          "position":"33"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:28.312",
+          "time":"00:08:57.594",
+          "difference":"00:06:09.616",
+          "position":"33"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:51:35.097",
+          "time":"00:09:06.785",
+          "difference":"00:07:22.611",
+          "position":"33"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:00:58.942",
+          "time":"00:09:23.845",
+          "difference":"00:08:28.208",
+          "position":"33"
+        }
+      ]
+    },
+    {
+      "id":"5742",
+      "start_num":"44",
+      "name":"Yuichi Hosoda",
+      "country":"JPN",
+      "segment_id":"18",
+      "time":"02:01:34.617",
+      "difference":"00:09:03.883",
+      "position":"34",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:28.362",
+          "time":"00:11:28.362",
+          "difference":"00:00:44.564",
+          "position":"29"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:37.713",
+          "time":"00:08:09.351",
+          "difference":"00:01:11.122",
+          "position":"31"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:44.280",
+          "time":"00:01:06.567",
+          "difference":"00:01:13.131",
+          "position":"31"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:10.039",
+          "time":"00:06:25.759",
+          "difference":"00:01:31.992",
+          "position":"34"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:26.604",
+          "time":"00:06:16.565",
+          "difference":"00:01:42.757",
+          "position":"32"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:42.170",
+          "time":"00:06:15.566",
+          "difference":"00:01:52.361",
+          "position":"35"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:54.878",
+          "time":"00:06:12.708",
+          "difference":"00:02:02.464",
+          "position":"27"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:12.345",
+          "time":"00:06:17.467",
+          "difference":"00:02:10.456",
+          "position":"25"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:31.086",
+          "time":"00:06:18.741",
+          "difference":"00:02:27.453",
+          "position":"22"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:56.761",
+          "time":"00:06:25.675",
+          "difference":"00:02:48.924",
+          "position":"32"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:29.081",
+          "time":"00:06:32.320",
+          "difference":"00:03:17.267",
+          "position":"32"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:01.381",
+          "time":"00:06:32.300",
+          "difference":"00:03:40.033",
+          "position":"29"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:46.608",
+          "time":"00:06:45.227",
+          "difference":"00:04:14.982",
+          "position":"34"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:21.895",
+          "time":"00:00:35.287",
+          "difference":"00:04:20.604",
+          "position":"35"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:43.064",
+          "time":"00:08:21.169",
+          "difference":"00:05:11.163",
+          "position":"34"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:38.009",
+          "time":"00:08:54.945",
+          "difference":"00:06:19.313",
+          "position":"34"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:51:35.430",
+          "time":"00:08:57.421",
+          "difference":"00:07:22.944",
+          "position":"34"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:01:34.617",
+          "time":"00:09:59.187",
+          "difference":"00:09:03.883",
+          "position":"34"
+        }
+      ]
+    },
+    {
+      "id":"7702",
+      "start_num":"10",
+      "name":"Aurelien Raphael",
+      "country":"FRA",
+      "segment_id":"18",
+      "time":"02:03:34.797",
+      "difference":"00:11:04.063",
+      "position":"35",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:43.798",
+          "time":"00:10:43.798",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:26.591",
+          "time":"00:07:42.793",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:34.011",
+          "time":"00:01:07.420",
+          "difference":"00:00:02.862",
+          "position":"5"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:44.006",
+          "time":"00:06:09.995",
+          "difference":"00:00:05.959",
+          "position":"11"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:03.634",
+          "time":"00:06:19.628",
+          "difference":"00:00:19.787",
+          "position":"15"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:39.927",
+          "time":"00:06:36.293",
+          "difference":"00:00:50.118",
+          "position":"18"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:05.696",
+          "time":"00:06:25.769",
+          "difference":"00:01:13.282",
+          "position":"23"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:54.300",
+          "time":"00:06:48.604",
+          "difference":"00:01:52.411",
+          "position":"22"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:35.736",
+          "time":"00:06:41.436",
+          "difference":"00:02:32.103",
+          "position":"34"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:57.608",
+          "time":"00:06:21.872",
+          "difference":"00:02:49.771",
+          "position":"35"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:30.461",
+          "time":"00:06:32.853",
+          "difference":"00:03:18.647",
+          "position":"36"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:04.080",
+          "time":"00:06:33.619",
+          "difference":"00:03:42.732",
+          "position":"36"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:45.250",
+          "time":"00:06:41.170",
+          "difference":"00:04:13.624",
+          "position":"32"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:20.326",
+          "time":"00:00:35.076",
+          "difference":"00:04:19.035",
+          "position":"33"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:35:23.368",
+          "time":"00:10:03.042",
+          "difference":"00:06:51.467",
+          "position":"36"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:44:26.280",
+          "time":"00:09:02.912",
+          "difference":"00:08:07.584",
+          "position":"36"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:53:06.649",
+          "time":"00:08:40.369",
+          "difference":"00:08:54.163",
+          "position":"35"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:03:34.797",
+          "time":"00:10:28.148",
+          "difference":"00:11:04.063",
+          "position":"35"
+        }
+      ]
+    },
+    {
+      "id":"11333",
+      "start_num":"32",
+      "name":"Ivan Ivanov",
+      "country":"UKR",
+      "segment_id":"18",
+      "time":"02:04:28.982",
+      "difference":"00:11:58.248",
+      "position":"36",
+      "status":null,
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:20.027",
+          "time":"00:11:20.027",
+          "difference":"00:00:36.229",
+          "position":"24"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:18.059",
+          "time":"00:07:58.032",
+          "difference":"00:00:51.468",
+          "position":"25"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:24.442",
+          "time":"00:01:06.383",
+          "difference":"00:00:53.293",
+          "position":"25"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:26.747",
+          "time":"00:06:02.305",
+          "difference":"00:00:48.700",
+          "position":"25"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:38.696",
+          "time":"00:06:11.949",
+          "difference":"00:00:54.849",
+          "position":"26"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:41.734",
+          "time":"00:06:03.038",
+          "difference":"00:00:51.925",
+          "position":"23"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:48.363",
+          "time":"00:06:06.629",
+          "difference":"00:00:55.949",
+          "position":"22"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:54.681",
+          "time":"00:07:06.318",
+          "difference":"00:01:52.792",
+          "position":"23"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:32.974",
+          "time":"00:06:38.293",
+          "difference":"00:02:29.341",
+          "position":"27"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:55.408",
+          "time":"00:06:22.434",
+          "difference":"00:02:47.571",
+          "position":"27"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:25.135",
+          "time":"00:06:29.727",
+          "difference":"00:03:13.321",
+          "position":"22"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:17:58.914",
+          "time":"00:06:33.779",
+          "difference":"00:03:37.566",
+          "position":"22"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:43.914",
+          "time":"00:06:45.000",
+          "difference":"00:04:12.288",
+          "position":"30"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:19.895",
+          "time":"00:00:35.981",
+          "difference":"00:04:18.604",
+          "position":"32"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:34:31.960",
+          "time":"00:09:12.065",
+          "difference":"00:06:00.059",
+          "position":"35"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:44:23.682",
+          "time":"00:09:51.722",
+          "difference":"00:08:04.986",
+          "position":"35"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:54:30.082",
+          "time":"00:10:06.400",
+          "difference":"00:10:17.596",
+          "position":"36"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"02:04:28.982",
+          "time":"00:09:58.900",
+          "difference":"00:11:58.248",
+          "position":"36"
+        }
+      ]
+    },
+    {
+      "id":"55511",
+      "start_num":"38",
+      "name":"Matthew Baker",
+      "country":"AUS",
+      "segment_id":"18",
+      "time":"01:55:47.641",
+      "difference":"00:00:00.000",
+      "position":"17",
+      "status":"DQF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:40.064",
+          "time":"00:11:40.064",
+          "difference":"00:00:54.958",
+          "position":"17"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:03.651",
+          "time":"00:07:23.587",
+          "difference":"00:00:33.359",
+          "position":"8"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:06.610",
+          "time":"00:01:02.959",
+          "difference":"00:00:31.275",
+          "position":"8"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:08.235",
+          "time":"00:06:01.625",
+          "difference":"00:00:29.273",
+          "position":"7"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:35.981",
+          "time":"00:06:27.746",
+          "difference":"00:00:00.000",
+          "position":"7"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:36.778",
+          "time":"00:06:00.797",
+          "difference":"00:00:00.000",
+          "position":"7"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:40.510",
+          "time":"00:06:03.732",
+          "difference":"00:00:00.000",
+          "position":"9"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:43.753",
+          "time":"00:06:03.243",
+          "difference":"00:00:00.000",
+          "position":"11"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:48.653",
+          "time":"00:06:04.900",
+          "difference":"00:00:00.000",
+          "position":"10"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:57.896",
+          "time":"00:06:09.243",
+          "difference":"00:00:00.000",
+          "position":"11"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:04.478",
+          "time":"00:06:06.582",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:21.695",
+          "time":"00:06:17.217",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:42.254",
+          "time":"00:06:20.559",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:13.241",
+          "time":"00:00:30.987",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:29:48.525",
+          "time":"00:07:35.284",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:38:19.520",
+          "time":"00:08:30.995",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:46:50.857",
+          "time":"00:08:31.337",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:55:47.641",
+          "time":"00:08:56.784",
+          "difference":"00:00:00.000",
+          "position":"17"
+        }
+      ]
+    },
+    {
+      "id":"49022",
+      "start_num":"50",
+      "name":"Menno Koolhaas",
+      "country":"NED",
+      "segment_id":"18",
+      "time":"01:56:20.480",
+      "difference":"00:00:00.000",
+      "position":"18",
+      "status":"DQF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:40.064",
+          "time":"00:11:40.064",
+          "difference":"00:00:54.958",
+          "position":"18"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:58.383",
+          "time":"00:07:18.319",
+          "difference":"00:00:28.091",
+          "position":"7"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:02.872",
+          "time":"00:01:04.489",
+          "difference":"00:00:27.537",
+          "position":"7"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:24.808",
+          "time":"00:06:21.936",
+          "difference":"00:00:45.846",
+          "position":"8"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:38.095",
+          "time":"00:06:13.287",
+          "difference":"00:00:00.000",
+          "position":"10"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:41.054",
+          "time":"00:06:02.959",
+          "difference":"00:00:00.000",
+          "position":"10"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:42.430",
+          "time":"00:06:01.376",
+          "difference":"00:00:00.000",
+          "position":"11"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:46.123",
+          "time":"00:06:03.693",
+          "difference":"00:00:00.000",
+          "position":"12"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:50.204",
+          "time":"00:06:04.081",
+          "difference":"00:00:00.000",
+          "position":"12"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:58.198",
+          "time":"00:06:07.994",
+          "difference":"00:00:00.000",
+          "position":"12"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:07.587",
+          "time":"00:06:09.389",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:20.996",
+          "time":"00:06:13.409",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:45.436",
+          "time":"00:06:24.440",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:17.724",
+          "time":"00:00:32.288",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:30:21.042",
+          "time":"00:08:03.318",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:38:54.017",
+          "time":"00:08:32.975",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:47:31.708",
+          "time":"00:08:37.691",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"18",
+          "name":"Finish",
+          "total_time":"01:56:20.480",
+          "time":"00:08:48.772",
+          "difference":"00:00:00.000",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"64519",
+      "start_num":"45",
+      "name":"Henrik Goesch",
+      "country":"FIN",
+      "segment_id":"17",
+      "time":"01:51:50.298",
+      "difference":"00:00:00.000",
+      "position":"18",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:25.576",
+          "time":"00:11:25.576",
+          "difference":"00:00:40.470",
+          "position":"11"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:22.092",
+          "time":"00:07:56.516",
+          "difference":"00:00:51.800",
+          "position":"10"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:30.550",
+          "time":"00:01:08.458",
+          "difference":"00:00:55.215",
+          "position":"12"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:37.933",
+          "time":"00:06:07.383",
+          "difference":"00:00:58.971",
+          "position":"11"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:06.332",
+          "time":"00:06:28.399",
+          "difference":"00:00:00.000",
+          "position":"12"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:34.047",
+          "time":"00:06:27.715",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:55.159",
+          "time":"00:06:21.112",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:16.096",
+          "time":"00:06:20.937",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:35.055",
+          "time":"00:06:18.959",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:04:56.355",
+          "time":"00:06:21.300",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:11:28.139",
+          "time":"00:06:31.784",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:18:02.321",
+          "time":"00:06:34.182",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:24:45.815",
+          "time":"00:06:43.494",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:25:17.654",
+          "time":"00:00:31.839",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:33:28.625",
+          "time":"00:08:10.971",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:33.061",
+          "time":"00:09:04.436",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"17",
+          "name":"Run Lap 3",
+          "total_time":"01:51:50.298",
+          "time":"00:09:17.237",
+          "difference":"00:00:00.000",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"56550",
+      "start_num":"30",
+      "name":"Adrien Briffod",
+      "country":"SUI",
+      "segment_id":"16",
+      "time":"01:42:45.344",
+      "difference":"00:00:00.000",
+      "position":"18",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:17.868",
+          "time":"00:11:17.868",
+          "difference":"00:00:32.762",
+          "position":"7"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:08.878",
+          "time":"00:07:51.010",
+          "difference":"00:00:38.586",
+          "position":"9"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:14.862",
+          "time":"00:01:05.984",
+          "difference":"00:00:39.527",
+          "position":"9"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:25.499",
+          "time":"00:06:10.637",
+          "difference":"00:00:46.537",
+          "position":"9"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:34.570",
+          "time":"00:06:09.071",
+          "difference":"00:00:00.000",
+          "position":"6"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:38.276",
+          "time":"00:06:03.706",
+          "difference":"00:00:00.000",
+          "position":"9"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:41.117",
+          "time":"00:06:02.841",
+          "difference":"00:00:00.000",
+          "position":"10"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:50:43.159",
+          "time":"00:06:02.042",
+          "difference":"00:00:00.000",
+          "position":"10"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:56:49.319",
+          "time":"00:06:06.160",
+          "difference":"00:00:00.000",
+          "position":"11"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:02:59.807",
+          "time":"00:06:10.488",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"11",
+          "name":"Bike Lap 8",
+          "total_time":"01:09:07.583",
+          "time":"00:06:07.776",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"12",
+          "name":"Bike Lap 9",
+          "total_time":"01:15:20.555",
+          "time":"00:06:12.972",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"13",
+          "name":"Bike End",
+          "total_time":"01:21:42.948",
+          "time":"00:06:22.393",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"14",
+          "name":"Transition 2",
+          "total_time":"01:22:11.151",
+          "time":"00:00:28.203",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"15",
+          "name":"Run Lap 1",
+          "total_time":"01:32:20.968",
+          "time":"00:10:09.817",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"16",
+          "name":"Run Lap 2",
+          "total_time":"01:42:45.344",
+          "time":"00:10:24.376",
+          "difference":"00:00:00.000",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"30249",
+      "start_num":"6",
+      "name":"Pierre Le Corre",
+      "country":"FRA",
+      "segment_id":"10",
+      "time":"01:05:03.812",
+      "difference":"00:00:00.000",
+      "position":"15",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:45.106",
+          "time":"00:10:45.106",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:30.292",
+          "time":"00:07:45.186",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:35.335",
+          "time":"00:01:05.043",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:43.325",
+          "time":"00:06:07.990",
+          "difference":"00:00:04.363",
+          "position":"4"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:03.331",
+          "time":"00:06:20.006",
+          "difference":"00:00:00.000",
+          "position":"5"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:37.921",
+          "time":"00:06:34.590",
+          "difference":"00:00:00.000",
+          "position":"8"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:03.597",
+          "time":"00:06:25.676",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:53.531",
+          "time":"00:06:49.934",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:34.376",
+          "time":"00:06:40.845",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:05:03.812",
+          "time":"00:06:29.436",
+          "difference":"00:00:00.000",
+          "position":"15"
+        }
+      ]
+    },
+    {
+      "id":"41322",
+      "start_num":"8",
+      "name":"Kristian Blummenfelt",
+      "country":"NOR",
+      "segment_id":"10",
+      "time":"01:06:08.260",
+      "difference":"00:00:00.000",
+      "position":"16",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:55.258",
+          "time":"00:10:55.258",
+          "difference":"00:00:10.152",
+          "position":"4"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:34.647",
+          "time":"00:07:39.389",
+          "difference":"00:00:04.355",
+          "position":"3"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:39.768",
+          "time":"00:01:05.121",
+          "difference":"00:00:04.433",
+          "position":"4"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:41.125",
+          "time":"00:06:01.357",
+          "difference":"00:00:02.163",
+          "position":"2"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:53.067",
+          "time":"00:06:11.942",
+          "difference":"00:00:00.000",
+          "position":"3"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:38:21.044",
+          "time":"00:06:27.977",
+          "difference":"00:00:00.000",
+          "position":"6"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:44:42.993",
+          "time":"00:06:21.949",
+          "difference":"00:00:00.000",
+          "position":"12"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:51:17.409",
+          "time":"00:06:34.416",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"00:58:39.754",
+          "time":"00:07:22.345",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:06:08.260",
+          "time":"00:07:28.506",
+          "difference":"00:00:00.000",
+          "position":"16"
+        }
+      ]
+    },
+    {
+      "id":"49237",
+      "start_num":"27",
+      "name":"Grant Sheldon",
+      "country":"GBR",
+      "segment_id":"10",
+      "time":"01:07:42.170",
+      "difference":"00:00:00.000",
+      "position":"17",
+      "status":"LAP",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:21.078",
+          "time":"00:11:21.078",
+          "difference":"00:00:35.972",
+          "position":"8"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:45.103",
+          "time":"00:08:24.025",
+          "difference":"00:01:14.811",
+          "position":"14"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:51.282",
+          "time":"00:01:06.179",
+          "difference":"00:01:15.947",
+          "position":"13"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:09.211",
+          "time":"00:06:17.929",
+          "difference":"00:01:30.249",
+          "position":"14"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:48.992",
+          "time":"00:06:39.781",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:40:43.777",
+          "time":"00:06:54.785",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:47:43.822",
+          "time":"00:07:00.045",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:54:18.242",
+          "time":"00:06:34.420",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"01:00:58.897",
+          "time":"00:06:40.655",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:07:42.170",
+          "time":"00:06:43.273",
+          "difference":"00:00:00.000",
+          "position":"17"
+        }
+      ]
+    },
+    {
+      "id":"10166",
+      "start_num":"42",
+      "name":"Simon De Cuyper",
+      "country":"BEL",
+      "segment_id":"10",
+      "time":"01:07:42.623",
+      "difference":"00:00:00.000",
+      "position":"18",
+      "status":"LAP",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:39.064",
+          "time":"00:11:39.064",
+          "difference":"00:00:53.958",
+          "position":"16"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:20:20.724",
+          "time":"00:08:41.660",
+          "difference":"00:01:50.432",
+          "position":"18"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:21:22.575",
+          "time":"00:01:01.851",
+          "difference":"00:01:47.240",
+          "position":"18"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:52.007",
+          "time":"00:06:29.432",
+          "difference":"00:02:13.045",
+          "position":"17"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:34:31.011",
+          "time":"00:06:39.004",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:41:07.470",
+          "time":"00:06:36.459",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:47:43.523",
+          "time":"00:06:36.053",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:54:17.842",
+          "time":"00:06:34.319",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"01:00:58.534",
+          "time":"00:06:40.692",
+          "difference":"00:00:00.000",
+          "position":"17"
+        },
+        {
+          "id":"10",
+          "name":"Bike Lap 7",
+          "total_time":"01:07:42.623",
+          "time":"00:06:44.089",
+          "difference":"00:00:00.000",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"7778",
+      "start_num":"14",
+      "name":"Jonathan Zipf",
+      "country":"GER",
+      "segment_id":"9",
+      "time":"01:00:55.956",
+      "difference":"00:00:00.000",
+      "position":"16",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:24.478",
+          "time":"00:11:24.478",
+          "difference":"00:00:39.372",
+          "position":"10"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:22.123",
+          "time":"00:07:57.645",
+          "difference":"00:00:51.831",
+          "position":"11"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:27.384",
+          "time":"00:01:05.261",
+          "difference":"00:00:52.049",
+          "position":"11"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:39.197",
+          "time":"00:06:11.813",
+          "difference":"00:01:00.235",
+          "position":"12"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:06.039",
+          "time":"00:06:26.842",
+          "difference":"00:00:00.000",
+          "position":"11"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:34.793",
+          "time":"00:06:28.754",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:45:57.252",
+          "time":"00:06:22.459",
+          "difference":"00:00:00.000",
+          "position":"15"
+        },
+        {
+          "id":"8",
+          "name":"Bike Lap 5",
+          "total_time":"00:52:16.485",
+          "time":"00:06:19.233",
+          "difference":"00:00:00.000",
+          "position":"16"
+        },
+        {
+          "id":"9",
+          "name":"Bike Lap 6",
+          "total_time":"01:00:55.956",
+          "time":"00:08:39.471",
+          "difference":"00:00:00.000",
+          "position":"16"
+        }
+      ]
+    },
+    {
+      "id":"31824",
+      "start_num":"28",
+      "name":"David Castro Fajardo",
+      "country":"ESP",
+      "segment_id":"7",
+      "time":"00:49:24.254",
+      "difference":"00:00:00.000",
+      "position":"18",
+      "status":"LAP",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:28.770",
+          "time":"00:11:28.770",
+          "difference":"00:00:43.664",
+          "position":"12"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:36.631",
+          "time":"00:08:07.861",
+          "difference":"00:01:06.339",
+          "position":"13"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:21:05.672",
+          "time":"00:01:29.041",
+          "difference":"00:01:30.337",
+          "position":"17"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:28:05.573",
+          "time":"00:06:59.901",
+          "difference":"00:02:26.611",
+          "position":"18"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:35:09.600",
+          "time":"00:07:04.027",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:42:11.821",
+          "time":"00:07:02.221",
+          "difference":"00:00:00.000",
+          "position":"18"
+        },
+        {
+          "id":"7",
+          "name":"Bike Lap 4",
+          "total_time":"00:49:24.254",
+          "time":"00:07:12.433",
+          "difference":"00:00:00.000",
+          "position":"18"
+        }
+      ]
+    },
+    {
+      "id":"49390",
+      "start_num":"16",
+      "name":"Dorian Coninx",
+      "country":"FRA",
+      "segment_id":"6",
+      "time":"00:39:03.228",
+      "difference":"00:00:00.000",
+      "position":"11",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:59.169",
+          "time":"00:10:59.169",
+          "difference":"00:00:14.063",
+          "position":"5"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:43.246",
+          "time":"00:07:44.077",
+          "difference":"00:00:12.954",
+          "position":"6"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:47.637",
+          "time":"00:01:04.391",
+          "difference":"00:00:12.302",
+          "position":"6"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:55.721",
+          "time":"00:06:08.084",
+          "difference":"00:00:16.759",
+          "position":"5"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:37.741",
+          "time":"00:06:42.020",
+          "difference":"00:00:00.000",
+          "position":"9"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:03.228",
+          "time":"00:06:25.487",
+          "difference":"00:00:00.000",
+          "position":"11"
+        }
+      ]
+    },
+    {
+      "id":"10842",
+      "start_num":"48",
+      "name":"Lawrence Fanous",
+      "country":"JOR",
+      "segment_id":"6",
+      "time":"00:39:33.448",
+      "difference":"00:00:00.000",
+      "position":"12",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:23.297",
+          "time":"00:11:23.297",
+          "difference":"00:00:38.191",
+          "position":"9"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:22.293",
+          "time":"00:07:58.996",
+          "difference":"00:00:52.001",
+          "position":"12"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:27.246",
+          "time":"00:01:04.953",
+          "difference":"00:00:51.911",
+          "position":"10"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:37.505",
+          "time":"00:06:10.259",
+          "difference":"00:00:58.543",
+          "position":"10"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:07.501",
+          "time":"00:06:29.996",
+          "difference":"00:00:00.000",
+          "position":"13"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:33.448",
+          "time":"00:06:25.947",
+          "difference":"00:00:00.000",
+          "position":"12"
+        }
+      ]
+    },
+    {
+      "id":"55763",
+      "start_num":"52",
+      "name":"Temirlan Temirov",
+      "country":"KAZ",
+      "segment_id":"6",
+      "time":"00:39:42.921",
+      "difference":"00:00:00.000",
+      "position":"15",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:33.988",
+          "time":"00:11:33.988",
+          "difference":"00:00:48.882",
+          "position":"15"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:47.164",
+          "time":"00:08:13.176",
+          "difference":"00:01:16.872",
+          "position":"16"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:55.639",
+          "time":"00:01:08.475",
+          "difference":"00:01:20.304",
+          "position":"15"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:10.828",
+          "time":"00:06:15.189",
+          "difference":"00:01:31.866",
+          "position":"15"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:28.243",
+          "time":"00:06:17.415",
+          "difference":"00:00:00.000",
+          "position":"14"
+        },
+        {
+          "id":"6",
+          "name":"Bike Lap 3",
+          "total_time":"00:39:42.921",
+          "time":"00:06:14.678",
+          "difference":"00:00:00.000",
+          "position":"15"
+        }
+      ]
+    },
+    {
+      "id":"30579",
+      "start_num":"39",
+      "name":"Wian Sullwald",
+      "country":"RSA",
+      "segment_id":"5",
+      "time":"00:31:53.774",
+      "difference":"00:00:00.000",
+      "position":"4",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:52.537",
+          "time":"00:10:52.537",
+          "difference":"00:00:07.431",
+          "position":"3"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:35.363",
+          "time":"00:07:42.826",
+          "difference":"00:00:05.071",
+          "position":"4"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:36.153",
+          "time":"00:01:00.790",
+          "difference":"00:00:00.818",
+          "position":"2"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:42.008",
+          "time":"00:06:05.855",
+          "difference":"00:00:03.046",
+          "position":"3"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:31:53.774",
+          "time":"00:06:11.766",
+          "difference":"00:00:00.000",
+          "position":"4"
+        }
+      ]
+    },
+    {
+      "id":"67535",
+      "start_num":"20",
+      "name":"Jonas Schomburg",
+      "country":"ITU",
+      "segment_id":"5",
+      "time":"00:32:37.248",
+      "difference":"00:00:00.000",
+      "position":"8",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:10:49.589",
+          "time":"00:10:49.589",
+          "difference":"00:00:04.483",
+          "position":"2"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:32.702",
+          "time":"00:07:43.113",
+          "difference":"00:00:02.410",
+          "position":"2"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:37.415",
+          "time":"00:01:04.713",
+          "difference":"00:00:02.080",
+          "position":"3"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:38.962",
+          "time":"00:06:01.547",
+          "difference":"00:00:00.000",
+          "position":"1"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:32:37.248",
+          "time":"00:06:58.286",
+          "difference":"00:00:00.000",
+          "position":"8"
+        }
+      ]
+    },
+    {
+      "id":"78904",
+      "start_num":"53",
+      "name":"Domen Dornik",
+      "country":"SLO",
+      "segment_id":"5",
+      "time":"00:33:33.401",
+      "difference":"00:00:00.000",
+      "position":"15",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:01.648",
+          "time":"00:11:01.648",
+          "difference":"00:00:16.542",
+          "position":"6"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:18:39.921",
+          "time":"00:07:38.273",
+          "difference":"00:00:09.629",
+          "position":"5"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:19:43.019",
+          "time":"00:01:03.098",
+          "difference":"00:00:07.684",
+          "position":"5"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:25:58.402",
+          "time":"00:06:15.383",
+          "difference":"00:00:19.440",
+          "position":"6"
+        },
+        {
+          "id":"5",
+          "name":"Bike Lap 2",
+          "total_time":"00:33:33.401",
+          "time":"00:07:34.999",
+          "difference":"00:00:00.000",
+          "position":"15"
+        }
+      ]
+    },
+    {
+      "id":"47630",
+      "start_num":"35",
+      "name":"Gustav Iden",
+      "country":"NOR",
+      "segment_id":"4",
+      "time":"00:26:50.558",
+      "difference":"00:01:11.596",
+      "position":"13",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:32.167",
+          "time":"00:11:32.167",
+          "difference":"00:00:47.061",
+          "position":"14"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:46.486",
+          "time":"00:08:14.319",
+          "difference":"00:01:16.194",
+          "position":"15"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:53.169",
+          "time":"00:01:06.683",
+          "difference":"00:01:17.834",
+          "position":"14"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:26:50.558",
+          "time":"00:05:57.389",
+          "difference":"00:01:11.596",
+          "position":"13"
+        }
+      ]
+    },
+    {
+      "id":"31992",
+      "start_num":"54",
+      "name":"Filipe Azevedo",
+      "country":"POR",
+      "segment_id":"4",
+      "time":"00:27:22.286",
+      "difference":"00:01:43.324",
+      "position":"16",
+      "status":"DNF",
+      "splits":[
+        {
+          "id":"1",
+          "name":"Swim Lap 1",
+          "total_time":"00:11:30.606",
+          "time":"00:11:30.606",
+          "difference":"00:00:45.500",
+          "position":"13"
+        },
+        {
+          "id":"2",
+          "name":"Swim End",
+          "total_time":"00:19:48.078",
+          "time":"00:08:17.472",
+          "difference":"00:01:17.786",
+          "position":"17"
+        },
+        {
+          "id":"3",
+          "name":"Transition 1",
+          "total_time":"00:20:57.976",
+          "time":"00:01:09.898",
+          "difference":"00:01:22.641",
+          "position":"16"
+        },
+        {
+          "id":"4",
+          "name":"Bike Lap 1",
+          "total_time":"00:27:22.286",
+          "time":"00:06:24.310",
+          "difference":"00:01:43.324",
+          "position":"16"
+        }
+      ]
+    }
+  ]
+}
